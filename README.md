@@ -63,7 +63,9 @@ I thrive on transforming chaos into clarity, using my analytical toolkit to crea
 </div>  
 
 <br/>  
-## Github Stats  
+## Github Stats 
+
+![Profile views counter](https://komarev.com/ghpvc/?username=AduetDabral1&&style=flat-square)  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=AduetDabral1&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -77,7 +79,6 @@ I thrive on transforming chaos into clarity, using my analytical toolkit to crea
 <br/>  
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=AduetDabral1&&style=flat-square)  
 <br/>  
 <br />
 ### ✍️ Random Dev Quote
