@@ -39,10 +39,6 @@ I thrive on transforming chaos into clarity, using my analytical toolkit to crea
 - ⚡ Fun fact: Every week I click random photographs on a specific theme.   
 
 
-</td><td valign="top" width="50%">
-
-
-
 </td></tr></table>  
 
 <br/>  
