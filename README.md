@@ -3,7 +3,7 @@
 <a href="https://www.github.com/AduetDabral1" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https:///www.linkedin.com/aduet-dabral-0289851a1" target="_blank">
+<a href="https:///www.linkedin.com/in/aduet-dabral-0289851a1" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/aduet.dabral/" target="_blank">
