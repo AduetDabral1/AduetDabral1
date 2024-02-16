@@ -15,12 +15,13 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 
-<br>
-### Glad to see you here!  
+
+## Glad to see you here!  
+
 I'm a passionate storyteller with a knack for numbers. I speak the language of data fluently, using it to craft narratives that inform, inspire, and drive action. Whether uncovering hidden patterns, predicting future trends, or optimizing processes, I'm driven by the thrill of discovery and the power of data-driven decision-making. I thrive on transforming chaos into clarity, using my analytical toolkit to create actionable insights that propel businesses forward. My mission is to empower organizations to make smarter, data-informed choices that create real-world impact.  
+
 
 I have 9 months of experience working as a Data Analyst and Specialist. I am well-versed and have a good knowledge of Python, SQL, Power BI, Advanced Excel, HTML, CSS,  C/C++ programming, AWS, and Statistics. I am also familiar with Apache Spark, Scala, and JavaScript.
 
