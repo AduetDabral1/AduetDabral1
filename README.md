@@ -1,4 +1,6 @@
-## *Hey, I'm Aduet Dabral! 👋*  
+# *Hey, I'm Aduet Dabral! 👋*  
+<br>
+
 <div align="center">
 <a href="https://www.github.com/AduetDabral1" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -16,11 +18,17 @@
   
 
 
-
+<br>
 ### Glad to see you here!  
-I'm a passionate storyteller with a knack for numbers. I speak the language of data fluently, using it to craft narratives that inform, inspire, and drive action. Whether uncovering hidden patterns, predicting future trends, or optimizing processes, I'm driven by the thrill of discovery and the power of data-driven decision-making. 
+I'm a passionate storyteller with a knack for numbers. I speak the language of data fluently, using it to craft narratives that inform, inspire, and drive action. Whether uncovering hidden patterns, predicting future trends, or optimizing processes, I'm driven by the thrill of discovery and the power of data-driven decision-making. I thrive on transforming chaos into clarity, using my analytical toolkit to create actionable insights that propel businesses forward. My mission is to empower organizations to make smarter, data-informed choices that create real-world impact.  
 
-I thrive on transforming chaos into clarity, using my analytical toolkit to create actionable insights that propel businesses forward. My mission is to empower organizations to make smarter, data-informed choices that create real-world impact.  
+I have 9 months of experience working as a Data Analyst and Specialist. I am well-versed and have a good knowledge of Python, SQL, Power BI, Advanced Excel, HTML, CSS,  C/C++ programming, AWS, and Statistics. I am also familiar with Apache Spark, Scala, and JavaScript.
+
+I'm constantly learning and exploring new areas, currently focusing on learning Cloud and AWS Services. I'm confident that my enthusiasm, combined with my growing skillset, will make me a valuable asset in discovering insights from data. I'm eager to leverage my strong analytical skills, collaborative spirit, and relentless curiosity to contribute impactful insights as a Data Analyst. 
+
+Ready to learn, grow, and drive results!
+
+
 <br/>  
 
 
@@ -33,7 +41,7 @@ I thrive on transforming chaos into clarity, using my analytical toolkit to crea
 - 🌱 I’m currently learning Cloud and AWS Services.  
   
 
-- ❓ Ask me about anything related to Excel, data analysis and related technologies  
+- ❓ Ask me about anything related to Excel, Data Analysis, and related technologies  
   
 
 - ⚡ Fun fact: Every week I click random photographs on a specific theme.   
@@ -59,7 +67,6 @@ I thrive on transforming chaos into clarity, using my analytical toolkit to crea
 <a href="https://www.scala-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" height="50" /></a>  
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
 <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 </div>  
 
 <br/>  
