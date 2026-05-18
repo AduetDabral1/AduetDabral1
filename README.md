@@ -13,125 +13,148 @@
 
 ---
 
-# 🚀 About Me  
+## 🚀 About Me  
 
-I’m a **Data Analyst & Cloud Engineer** with experience in **cloud analytics, SQL optimization, business intelligence, and modern data platforms**.  
+I’m a **Data Analyst** with a strong foundation in **cloud analytics, SQL performance optimization, and business intelligence**.  
 
-At AWS, I worked on real-world production database systems—diagnosing performance bottlenecks, optimizing workloads, and improving operational efficiency across RDS and Aurora environments.  
+At AWS, I worked on real-world database systems—diagnosing performance issues, optimizing queries, and improving system efficiency. I’ve handled **150+ production database cases** and improved query performance by **~30% through SQL tuning and indexing**.  
 
-I focus on building:
-- 📊 Insight-driven analytics dashboards  
-- ⚡ High-performance SQL and data workflows  
-- ☁️ Cloud-native analytics architectures  
-- 🏗️ Scalable data models and warehouse systems  
+I focus on:  
+- Turning raw data into **clear, decision-ready insights**  
+- Building **KPI-driven dashboards using Power BI**  
+- Designing **efficient data models and analytics workflows**  
+
+I’m particularly interested in solving **business problems through data**, not just building dashboards.  
 
 ---
 
-# 🧠 What I Work On  
+## 🧠 What I Work On  
 
-- 📊 **Power BI Dashboards** → KPI tracking, executive reporting, storytelling  
-- ⚡ **SQL Optimization** → Query tuning, indexing, performance engineering  
-- ☁️ **Cloud Analytics** → AWS RDS, Aurora, Lambda, S3  
-- 🏗️ **Data Warehousing** → Medallion architecture, Star schema modeling  
-- 🔍 **Business Analytics** → Trend analysis, operational insights, forecasting  
+- 📊 **Power BI Dashboards** → KPI tracking, business insights, storytelling  
+- ⚡ **SQL Optimization** → Query tuning, indexing, performance improvement  
+- ☁️ **Cloud Analytics (AWS)** → RDS, Aurora, data-driven troubleshooting  
+- 🏗️ **Data Modeling** → Star schema, warehouse design  
+- 🔍 **Exploratory Analysis** → Identifying trends and inefficiencies  
 
 ---
 
 # 📌 Featured Projects  
 
+<br>
+
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
+
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+<img src="YOUR_IMAGE_LINK_1" width="85%" />
 
 ### 📦 Supply Chain Analytics Dashboard  
 
-Improved delivery performance and operational visibility through KPI-driven analytics dashboards.  
+Improved logistics visibility and delivery KPI tracking through interactive Power BI dashboards.  
 
 **Tech Stack:** Power BI, SQL, Excel, DAX  
 
 </div>
+
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
+
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+<img src="YOUR_IMAGE_LINK_2" width="85%" />
 
 ### 🏗️ Modern Data Warehouse Project  
 
-Built a Medallion architecture with Star schema modeling for scalable business analytics.  
+Built a Medallion architecture with Star Schema modeling for scalable analytics workflows.  
 
-**Tech Stack:** SQL Server, Power BI, ETL, Data Modeling  
+**Tech Stack:** SQL, Python, ETL, Data Warehousing  
 
 </div>
+
 </td>
 
 </tr>
+</table>
 
+<br><br>
+
+<table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
+
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+<img src="YOUR_IMAGE_LINK_3" width="85%" />
 
-### 📊 Finance Analytics Dashboard  
+### 📊 Finance & Business Dashboard  
 
-Developed executive dashboards for revenue tracking, profitability analysis, and forecasting.  
+Developed executive dashboards for revenue, profit margins, and operational KPIs.  
 
-**Tech Stack:** Power BI, DAX, SQL, Excel  
+**Tech Stack:** Power BI, SQL, Excel  
 
 </div>
+
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
+
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1526379095098-d400fd0bf935?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+<img src="YOUR_IMAGE_LINK_4" width="85%" />
 
 ### ☁️ AWS Cloud Cost Analysis  
 
-Analyzed AWS usage patterns and optimized cloud spending through reporting automation.  
+Analyzed cloud usage patterns and optimized infrastructure visibility through reporting dashboards.  
 
-**Tech Stack:** AWS, Athena, S3, QuickSight  
+**Tech Stack:** AWS, Athena, QuickSight, SQL  
 
 </div>
+
 </td>
 
 </tr>
+</table>
 
+<br><br>
+
+<table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
+
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1518186285589-2f7649de83e0?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+<img src="YOUR_IMAGE_LINK_5" width="85%" />
 
-### 🎬 YouTube Trending Data Pipeline  
+### 📈 Sales Performance Analytics  
 
-Built an end-to-end ETL pipeline for analyzing trending YouTube video datasets.  
+Created regional and category-wise sales analysis dashboards with trend forecasting.  
 
-**Tech Stack:** Python, AWS Glue, Athena, S3  
+**Tech Stack:** Power BI, Python, SQL  
 
 </div>
+
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
+
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+<img src="YOUR_IMAGE_LINK_6" width="85%" />
 
-### 📈 Customer Sales Insights Dashboard  
+### ⚡ SQL Performance Optimization Project  
 
-Created an interactive dashboard to identify customer trends and sales opportunities.  
+Optimized slow-running queries and indexing strategies to improve execution efficiency.  
 
-**Tech Stack:** Power BI, SQL, Excel, Power Query  
+**Tech Stack:** PostgreSQL, MySQL, AWS RDS  
 
 </div>
+
 </td>
 
 </tr>
@@ -139,35 +162,26 @@ Created an interactive dashboard to identify customer trends and sales opportuni
 
 ---
 
-# ⚡ Rapidfire  
+## ⚡ Rapidfire  
 
-- 🔭 Currently focused on **advanced analytics and cloud-native data systems**  
+- 🔭 Currently focused on **advanced analytics and cloud-based data systems**  
 - 🌱 Learning deeper **data engineering and scalable pipelines**  
 - 💬 Ask me about **SQL, Power BI, AWS (RDS/Aurora)**  
 - 📸 Fun fact: I shoot themed photography every week  
 
 ---
 
-# 🛠️ Tech Stack  
+## 🛠️ Tech Stack  
 
-### Languages  
-Python • SQL • PySpark  
-
-### BI & Analytics  
-Power BI • DAX • Excel • Power Query  
-
-### Cloud & Databases  
-AWS • RDS • Aurora • S3 • Lambda • IAM  
-
-### Data Engineering  
-ETL/ELT • Data Warehousing • Data Modeling • Medallion Architecture  
-
-### Tools  
-Git • GitHub • JIRA • Confluence  
+**Languages:** Python, SQL, PySpark  
+**BI & Analytics:** Power BI, Excel, DAX, Power Query  
+**Cloud:** AWS (RDS, Aurora, S3, Lambda, IAM)  
+**Data:** Data Modeling, ETL/ELT, Warehousing  
+**Tools:** Git, JIRA, Confluence  
 
 ---
 
-# 📊 GitHub Stats  
+## 📊 GitHub Stats  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=AduetDabral1&&style=flat-square)
 
