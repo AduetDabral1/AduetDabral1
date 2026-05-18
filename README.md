@@ -24,7 +24,7 @@ I focus on:
 - Building **KPI-driven dashboards using Power BI**  
 - Designing **efficient data models and analytics workflows**  
 
-I’m particularly interested in solving **business problems through data**, not just building dashboards.  
+I’m particularly interested in solving **business problems through data**, not just building projects and following tutorials.  
 
 ---
 
@@ -35,6 +35,16 @@ I’m particularly interested in solving **business problems through data**, not
 - ☁️ **Cloud Analytics (AWS)** → RDS, Aurora, data-driven troubleshooting  
 - 🏗️ **Data Modeling** → Star schema, warehouse design  
 - 🔍 **Exploratory Analysis** → Identifying trends and inefficiencies  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Languages:** Python, SQL, PySpark  
+**BI & Analytics:** Power BI, Excel, DAX, Power Query  
+**Cloud:** AWS (RDS, Aurora, S3, Lambda, IAM), Azure, Databricks  
+**Data:** Data Modeling, ETL/ELT, Warehousing  
+**Tools:** Git, JIRA, Confluence  
 
 ---
 
@@ -49,13 +59,13 @@ I’m particularly interested in solving **business problems through data**, not
 
 <div align="center">
 
-<img src="YOUR_IMAGE_LINK_1" width="85%" />
+<img src="https://github.com/user-attachments/assets/9cbf2a41-4769-4e8f-80c1-f14376db74e6" width="85%" />
 
-### 📦 Supply Chain Analytics Dashboard  
+### IPL 2026 Live Dashbaord  
 
-Improved logistics visibility and delivery KPI tracking through interactive Power BI dashboards.  
+A high-performance, real-time Power BI solution for the **Indian Premier League (IPL) 2026**. This project integrates live API data with scraped historical and squad data to provide a 360-degree view of the tournament.
 
-**Tech Stack:** Power BI, SQL, Excel, DAX  
+**Tech Stack:** Power BI, RapidAPI(Cricbuzz), Excel, DAX  
 
 </div>
 
@@ -65,11 +75,11 @@ Improved logistics visibility and delivery KPI tracking through interactive Powe
 
 <div align="center">
 
-<img src="YOUR_IMAGE_LINK_2" width="85%" />
+<img src="https://github.com/user-attachments/assets/00f68f4d-1106-4aae-bd64-40f9a315a88e" width="85%" />
 
-### 🏗️ Modern Data Warehouse Project  
+### Modern Data Warehouse and Analytics  
 
-Built a Medallion architecture with Star Schema modeling for scalable analytics workflows.  
+Built a Medallion architecture with Star Schema modeling that establishes a modern Data Warehouse and Analytics solution using SQL Server, for scalable analytics workflows.  
 
 **Tech Stack:** SQL, Python, ETL, Data Warehousing  
 
@@ -89,13 +99,13 @@ Built a Medallion architecture with Star Schema modeling for scalable analytics 
 
 <div align="center">
 
-<img src="YOUR_IMAGE_LINK_3" width="85%" />
+<img src="https://github.com/user-attachments/assets/175c42ff-f60d-4a4e-a350-eae064c434ba" width="85%" />
 
-### 📊 Finance & Business Dashboard  
+### 📊 Google Trends Dashboard  
 
-Developed executive dashboards for revenue, profit margins, and operational KPIs.  
+Designed to track, visualize, and analyze keyword performance and search interest globally.  
 
-**Tech Stack:** Power BI, SQL, Excel  
+**Tech Stack:** Power BI, Power Query, Excel  
 
 </div>
 
@@ -105,13 +115,13 @@ Developed executive dashboards for revenue, profit margins, and operational KPIs
 
 <div align="center">
 
-<img src="YOUR_IMAGE_LINK_4" width="85%" />
+<img src="https://github.com/user-attachments/assets/f5e5bba4-eed4-43a7-a2c6-d1d36705900f" width="85%" />
 
-### ☁️ AWS Cloud Cost Analysis  
+### AWS YouTube Data Engineering Analysis  
 
-Analyzed cloud usage patterns and optimized infrastructure visibility through reporting dashboards.  
+An end-to-end data engineering pipeline to process, cleanse, and analyze YouTube's trending video data (Kaggle dataset)
 
-**Tech Stack:** AWS, Athena, QuickSight, SQL  
+**Tech Stack:** AWS (S3, Lambda, Glue, Athena), PySark, SQL  
 
 </div>
 
@@ -131,7 +141,7 @@ Analyzed cloud usage patterns and optimized infrastructure visibility through re
 
 <img src="YOUR_IMAGE_LINK_5" width="85%" />
 
-### 📈 Sales Performance Analytics  
+### Sales Performance Analytics  
 
 Created regional and category-wise sales analysis dashboards with trend forecasting.  
 
@@ -147,7 +157,7 @@ Created regional and category-wise sales analysis dashboards with trend forecast
 
 <img src="YOUR_IMAGE_LINK_6" width="85%" />
 
-### ⚡ SQL Performance Optimization Project  
+### SQL Performance Optimization Project  
 
 Optimized slow-running queries and indexing strategies to improve execution efficiency.  
 
@@ -168,16 +178,6 @@ Optimized slow-running queries and indexing strategies to improve execution effi
 - 🌱 Learning deeper **data engineering and scalable pipelines**  
 - 💬 Ask me about **SQL, Power BI, AWS (RDS/Aurora)**  
 - 📸 Fun fact: I shoot themed photography every week  
-
----
-
-## 🛠️ Tech Stack  
-
-**Languages:** Python, SQL, PySpark  
-**BI & Analytics:** Power BI, Excel, DAX, Power Query  
-**Cloud:** AWS (RDS, Aurora, S3, Lambda, IAM)  
-**Data:** Data Modeling, ETL/ELT, Warehousing  
-**Tools:** Git, JIRA, Confluence  
 
 ---
 
