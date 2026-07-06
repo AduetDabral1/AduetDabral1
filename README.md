@@ -100,7 +100,8 @@ Production-inspired Azure Data Engineering platform that ingests operational hea
 
 <div align="center">
 
-<img src="YOUR_IMAGE_LINK_6" width="85%" />
+<img width="832" height="621" alt="Data Studio Report Snapshot" src="https://github.com/user-attachments/assets/19afcfce-ae08-408c-b80c-6c3f7bbd4a31" />
+
 
 ### Uber data Modern ETL and Analytics Pipeline on Google Cloud  
 
@@ -140,11 +141,12 @@ An end-to-end data engineering pipeline to process, cleanse, and analyze YouTube
 
 <div align="center">
 
-<img src="YOUR_IMAGE_LINK_5" width="85%" />
+<img width="1414" height="795" alt="Screenshot 2026-04-03 170443" src="https://github.com/user-attachments/assets/aa4a8f66-7985-4765-bde0-c932e3bee706" />
 
-### Sales Performance Analytics  
 
-Created regional and category-wise sales analysis dashboards with trend forecasting.  
+### Supply Chain Analytics Dashboard  
+
+This Power BI dashboard delivers a comprehensive, end-to-end view of supply chain operations, enabling data-driven decision-making across procurement, inventory, logistics, and customer fulfillment. 
 
 **Tech Stack:** Power BI, Python, SQL  
 
