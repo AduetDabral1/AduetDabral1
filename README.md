@@ -75,13 +75,14 @@ A high-performance, real-time Power BI solution for the **Indian Premier League 
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/00f68f4d-1106-4aae-bd64-40f9a315a88e" width="85%" />
+<img width="1487" height="825" alt="Project Architecture" src="https://github.com/user-attachments/assets/3670f9ea-42a7-4a4f-99b0-53fd70218754" />
 
-### Modern Data Warehouse and Analytics  
 
-Built a Medallion architecture with Star Schema modeling that establishes a modern Data Warehouse and Analytics solution using SQL Server, for scalable analytics workflows.  
+### Azure Platform for Healthcare Revenue Cycle Management (RCM) Data Analytics 
 
-**Tech Stack:** SQL, Python, ETL, Data Warehousing  
+Production-inspired Azure Data Engineering platform that ingests operational healthcare data from multiple sources into a Delta Lakehouse using metadata-driven pipelines, Medallion Architecture, and Slowly Changing Dimensions (SCD Type 2) for analytics-ready reporting.
+
+**Tech Stack:** Azure Cloud, Databricks, PySpark, SQL, RestAPI, ETL, Data Warehousing  
 
 </div>
 
@@ -94,18 +95,18 @@ Built a Medallion architecture with Star Schema modeling that establishes a mode
 
 <table>
 <tr>
-
+  
 <td width="50%" valign="top">
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/175c42ff-f60d-4a4e-a350-eae064c434ba" width="85%" />
+<img src="YOUR_IMAGE_LINK_6" width="85%" />
 
-### 📊 Google Trends Dashboard  
+### Uber data Modern ETL and Analytics Pipeline on Google Cloud  
 
-Designed to track, visualize, and analyze keyword performance and search interest globally.  
+Transforming raw NYC taxi trip data into business-ready insights using Google Cloud, Python, Mage AI, BigQuery, and Google Data Studio.
 
-**Tech Stack:** Power BI, Power Query, Excel  
+**Tech Stack:** Google Cloud, MageAI, Python, BigQuery, Google Data Studio
 
 </div>
 
@@ -155,13 +156,13 @@ Created regional and category-wise sales analysis dashboards with trend forecast
 
 <div align="center">
 
-<img src="YOUR_IMAGE_LINK_6" width="85%" />
+<img src="https://github.com/user-attachments/assets/175c42ff-f60d-4a4e-a350-eae064c434ba" width="85%" />
 
-### SQL Performance Optimization Project  
+### 📊 Google Trends Dashboard  
 
-Optimized slow-running queries and indexing strategies to improve execution efficiency.  
+Designed to track, visualize, and analyze keyword performance and search interest globally.  
 
-**Tech Stack:** PostgreSQL, MySQL, AWS RDS  
+**Tech Stack:** Power BI, Power Query, Excel  
 
 </div>
 
