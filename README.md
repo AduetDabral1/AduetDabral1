@@ -4,31 +4,35 @@
 
 <table align="center">
 <tr>
-<td align="center">
+
+<td align="center" width="180">
 <a href="https://www.github.com/AduetDabral1" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </td>
 
-<td align="center">
+<td align="center" width="180">
 <a href="https://www.linkedin.com/in/aduet-dabral-0289851a1" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </td>
 
-<td align="center">
+<td align="center" width="180">
 <a href="https://aduetdabral1.github.io/aduet-portfolio/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-121013?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 </td>
 
-<td align="center">
+<td align="center" width="180">
 <a href="mailto:dabral.aduet@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </td>
+
 </tr>
 </table>
+
+
 ---
 
 # 🚀 About Me
@@ -53,46 +57,17 @@ My interests span across **Data Engineering, Cloud Analytics, Business Intellige
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-### Programming & Query Languages
-- Python
-- SQL
-- PySpark
-
-### Data Engineering
-- Apache Spark
-- Apache Kafka
-- Apache Airflow
-- Docker
-- ETL / ELT
-- Data Warehousing
-- Data Modeling
-
-### Cloud Platforms
-- AWS (RDS, Aurora, S3, Lambda, Glue, Athena, IAM)
-- Microsoft Azure
-- Google Cloud Platform
-- Databricks
-
-### Analytics & BI
-- Power BI
-- DAX
-- Power Query
-- Excel
-- BigQuery
-- Google Data Studio
-
-### Machine Learning
-- Supervised & Unsupervised Learning
-- Feature Engineering
-- Model Evaluation
-- Data Preprocessing
-
-### Tools
-- Git
-- JIRA
-- Confluence
+| 💻 Category | 🚀 Technologies |
+|:------------|:----------------|
+| **Languages** | Python • SQL • PySpark |
+| **Data Engineering** | Apache Spark • Apache Kafka • Apache Airflow • Docker |
+| **Cloud** | AWS • Azure • Google Cloud Platform • Databricks |
+| **Data** | ETL/ELT • Data Warehousing • Data Modeling |
+| **Analytics** | Power BI • DAX • Power Query • Excel • BigQuery • Google Data Studio |
+| **Machine Learning** | Supervised Learning • Unsupervised Learning • Feature Engineering • Data Preprocessing • Model Evaluation |
+| **Tools** | Git • GitHub • JIRA • Confluence |
 
 ---
 
