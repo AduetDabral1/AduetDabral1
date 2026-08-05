@@ -2,26 +2,33 @@
 
 <br>
 
-<div align="center">
-
+<table align="center">
+<tr>
+<td align="center">
 <a href="https://www.github.com/AduetDabral1" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </a>
+</td>
 
+<td align="center">
 <a href="https://www.linkedin.com/in/aduet-dabral-0289851a1" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+</td>
 
+<td align="center">
 <a href="https://aduetdabral1.github.io/aduet-portfolio/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-121013?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
+</td>
 
+<td align="center">
 <a href="mailto:dabral.aduet@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-</div>
-
+</td>
+</tr>
+</table>
 ---
 
 # 🚀 About Me
