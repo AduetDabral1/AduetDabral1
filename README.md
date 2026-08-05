@@ -1,4 +1,3 @@
-```markdown
 # Hey, I'm Aduet Dabral! 👋
 
 <br>
@@ -243,4 +242,3 @@ Power BI dashboard designed to monitor, visualize, and analyze global keyword se
 
 </tr>
 </table>
-```
