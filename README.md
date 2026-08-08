@@ -4,20 +4,23 @@
 
 ---
 
-## 🔗 Quick Links
+## 🔗 Connect With Me
 
-[![Gmail](https://img.shields.io/badge/Email-dabral.aduet%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dabral.aduet@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-AduetDabral1-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AduetDabral1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aduet--dabral-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aduet-dabral)
-[![Portfolio](https://img.shields.io/badge/Portfolio-aduet--portfolio-8B5CF6?style=flat-square&logo=world&logoColor=white)](https://aduetdabral1.github.io/aduet-portfolio/)
-[![Resume](https://img.shields.io/badge/Resume-PDF-D91E63?style=flat-square&logo=adobe&logoColor=white)](./resume.pdf)
-[![Cover Letter](https://img.shields.io/badge/Cover%20Letter-PDF-6366F1?style=flat-square&logo=adobe&logoColor=white)](./cover_letter.pdf)
+<div align="center">
+
+| | | | | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AduetDabral1) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aduet-dabral) | [![Portfolio](https://img.shields.io/badge/-Portfolio-8B5CF6?style=for-the-badge&logo=globe&logoColor=white)](https://aduetdabral1.github.io/aduet-portfolio/) | [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dabral.aduet@gmail.com) | [![Resume](https://img.shields.io/badge/-Resume-D91E63?style=for-the-badge&logo=adobe&logoColor=white)](./resume.pdf) | [![Cover Letter](https://img.shields.io/badge/-Letter-6366F1?style=for-the-badge&logo=adobe&logoColor=white)](./cover_letter.pdf) |
+
+</div>
 
 ---
 
-## 📍 Jump To
+## 🧭 Quick Navigation
 
-[About](#about-me) • [What I Do](#what-i-work-on) • [Tech Stack](#tech-stack) • [Projects](#featured-projects) • [Certs](#certifications) • [Rapidfire](#⚡-rapidfire)
+| Section | | | | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| [💁 About](#about-me) | [⚙️ What I Do](#what-i-work-on) | [🛠️ Tech Stack](#tech-stack) | [🎯 Projects](#featured-projects) | [🏆 Certifications](#certifications) | [⚡ Rapidfire](#⚡-rapidfire) |
 
 ---
 
@@ -51,36 +54,63 @@ My interests span **Data Engineering, Cloud Analytics, Business Intelligence, an
 
 ## 🛠️ Tech Stack
 
+### 💻 Coding & Scripting
 <table>
 <tr>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python"/><br><b>Python</b></td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="SQL"/><br><b>SQL</b></td>
-<td align="center" width="120">🔥<br><b>PySpark</b></td>
-<td align="center" width="120">🔥<br><b>Spark</b></td>
-<td align="center" width="120">🚀<br><b>Kafka</b></td>
-<td align="center" width="120"><img src="https://www.databricks.com/en/favicon.ico" width="50" height="50" alt="Databricks"/><br><b>Databricks</b></td>
-<td align="center" width="120">✈️<br><b>Airflow</b></td>
-<td align="center" width="120">✨<br><b>Mage AI</b></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python"/><br><sub><b>Python</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git"/><br><sub><b>Git</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/><br><sub><b>Docker</b></sub></td>
+<td align="center" width="100">⚡<br><sub><b>FastAPI</b></sub></td>
+<td align="center" width="100">🔌<br><sub><b>REST APIs</b></sub></td>
 </tr>
+</table>
+
+### 🗄️ Databases & SQL
+<table>
 <tr>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS"/><br><b>AWS</b></td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="50" height="50" alt="Azure"/><br><b>Azure</b></td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="GCP"/><br><b>GCP</b></td>
-<td align="center" width="120">📊<br><b>Power BI</b></td>
-<td align="center" width="120">📉<br><b>DAX</b></td>
-<td align="center" width="120">🔄<br><b>Power Query</b></td>
-<td align="center" width="120">📈<br><b>BigQuery</b></td>
-<td align="center" width="120">📑<br><b>Excel</b></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="SQL"/><br><sub><b>SQL</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/><br><sub><b>MySQL</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="SQL Server"/><br><sub><b>SQL Server</b></sub></td>
 </tr>
+</table>
+
+### 🚀 Data Engineering & Pipelines
+<table>
 <tr>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/><br><b>Docker</b></td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git"/><br><b>Git</b></td>
-<td align="center" width="120">🔌<br><b>REST APIs</b></td>
-<td align="center" width="120">⚡<br><b>FastAPI</b></td>
-<td align="center" width="120">🐼<br><b>Pandas</b></td>
-<td align="center" width="120">🔢<br><b>NumPy</b></td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/><br><b>MySQL</b></td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" alt="SQL Server"/><br><b>SQL Server</b></td>
+<td align="center" width="100">🔥<br><sub><b>PySpark</b></sub></td>
+<td align="center" width="100">🔥<br><sub><b>Apache Spark</b></sub></td>
+<td align="center" width="100">🚀<br><sub><b>Apache Kafka</b></sub></td>
+<td align="center" width="100">📊<br><sub><b>Databricks</b></sub></td>
+<td align="center" width="100">✈️<br><sub><b>Apache Airflow</b></sub></td>
+<td align="center" width="100">✨<br><sub><b>Mage AI</b></sub></td>
+</tr>
+</table>
+
+### ☁️ Cloud Platforms
+<table>
+<tr>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS"/><br><sub><b>AWS</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="45" height="45" alt="Azure"/><br><sub><b>Azure</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="45" height="45" alt="GCP"/><br><sub><b>GCP</b></sub></td>
+</tr>
+</table>
+
+### 📊 Data Analysis & BI
+<table>
+<tr>
+<td align="center" width="100">📊<br><sub><b>Power BI</b></sub></td>
+<td align="center" width="100">📉<br><sub><b>DAX</b></sub></td>
+<td align="center" width="100">🔄<br><sub><b>Power Query</b></sub></td>
+<td align="center" width="100">📈<br><sub><b>BigQuery</b></sub></td>
+<td align="center" width="100">📑<br><sub><b>Excel</b></sub></td>
+</tr>
+</table>
+
+### 🐍 Data Processing & Libraries
+<table>
+<tr>
+<td align="center" width="100">🐼<br><sub><b>Pandas</b></sub></td>
+<td align="center" width="100">🔢<br><sub><b>NumPy</b></sub></td>
 </tr>
 </table>
 
@@ -88,59 +118,155 @@ My interests span **Data Engineering, Cloud Analytics, Business Intelligence, an
 
 ## 📌 Featured Projects
 
-### 📊 IPL 2026 Live Dashboard
-**A real-time Power BI analytics solution** for the Indian Premier League 2026, integrating live API feeds with historical datasets to deliver comprehensive tournament insights.
+<table>
+<tr>
+<td width="48%">
 
-🛠️ **Tech Stack:** Power BI • DAX • Power Query • RapidAPI (Cricbuzz) • Excel
+#### 📊 IPL 2026 Live Dashboard
 
-🔗 **[View on GitHub](https://github.com/AduetDabral1/PowerBI/tree/main/IPL%202026%20Dashboard)**
+![IPL Dashboard](https://img.shields.io/badge/-Power%20BI%20%7C%20Real--Time%20Analytics-2E75B6?style=flat-square)
 
----
+Real-time Power BI analytics for Indian Premier League 2026 with live API feeds and tournament insights.
 
-### 🏥 Azure Healthcare Revenue Cycle Management Platform
-**Production-inspired Azure Data Engineering platform** that ingests healthcare operational data into a Delta Lakehouse using metadata-driven pipelines, Medallion Architecture, and Slowly Changing Dimensions (SCD Type 2).
+**Tech:** Power BI • DAX • Power Query • RapidAPI
 
-🛠️ **Tech Stack:** Azure Data Factory • Databricks • PySpark • Delta Lake • SQL • REST API • Data Warehousing
+[→ View on GitHub](https://github.com/AduetDabral1/PowerBI/tree/main/IPL%202026%20Dashboard)
 
-🔗 **[View on GitHub](https://github.com/AduetDabral1/End-to-End-Data-Pipelines/tree/main/Healthcare_Revenue_Cycle_Management_Azure)**
+</td>
+<td width="4%"></td>
+<td width="48%">
 
----
+#### 🏥 Healthcare Revenue Cycle Platform
 
-### 🎬 YouTube Data Lake & Analytics Pipeline
-**End-to-end modern data pipeline** transforming NYC taxi trip data into analytics-ready datasets using serverless AWS services. Hive-style partitioning and Parquet conversion reduced storage costs by **50%** while enabling subsecond analytical queries.
+![Healthcare](https://img.shields.io/badge/-Azure%20%7C%20Data%20Engineering-0078D4?style=flat-square)
 
-🛠️ **Tech Stack:** AWS (S3, Lambda, Glue, Athena) • PySpark • SQL • Medallion Architecture
+Production Azure Lakehouse ingesting multi-source healthcare data with Medallion architecture and SCD Type 2.
 
-🔗 **Coming Soon**
+**Tech:** Azure Data Factory • Databricks • PySpark • Delta Lake • SQL
 
----
+[→ View on GitHub](https://github.com/AduetDabral1/End-to-End-Data-Pipelines/tree/main/Healthcare_Revenue_Cycle_Management_Azure)
 
-### 📈 Real-Time Stock Market Data Pipeline
-**Kafka-fed streaming pipeline on AWS** turning raw supply chain data into a dimensional model with Power Query and DAX measures tracking revenue, inventory turnover, lead time, and shipment performance.
+</td>
+</tr>
+</table>
 
-🛠️ **Tech Stack:** Apache Kafka • AWS (EC2, S3, Glue, Athena) • Python • Power BI • DAX
+<table>
+<tr>
+<td width="48%">
 
-🔗 **[View on GitHub](https://github.com/AduetDabral1/End-to-End-Data-Pipelines/tree/main/Real_Time_Stock_Data_Analysis_DE_Pipeline)**
+#### 🎬 YouTube Data Lake & Analytics
 
----
+![YouTube Pipeline](https://img.shields.io/badge/-AWS%20%7C%20Serverless-FF9900?style=flat-square)
 
-### 📦 Supply Chain Analytics Dashboard
-**Interactive Power BI dashboard** providing end-to-end visibility across procurement, inventory, logistics, and customer fulfillment. Built with clean dimensional data models and DAX measures for operational excellence.
+Serverless AWS data lake automating ingestion of 40K+ daily records. 50% storage reduction with subsecond queries.
 
-🛠️ **Tech Stack:** Power BI • Power Query • DAX • Data Modeling • Python • SQL
+**Tech:** AWS (S3, Lambda, Glue, Athena) • PySpark • Medallion Architecture
 
-🔗 **[View on GitHub](https://github.com/AduetDabral1/PowerBI/tree/main/Supply%20Chain%20Dashboard)**
+[→ Coming Soon](#)
+
+</td>
+<td width="4%"></td>
+<td width="48%">
+
+#### 📈 Real-Time Stock Market Pipeline
+
+![Stock Pipeline](https://img.shields.io/badge/-Kafka%20%7C%20Streaming-000000?style=flat-square)
+
+Kafka-fed streaming pipeline transforming supply chain data into dimensional models with Power BI tracking.
+
+**Tech:** Apache Kafka • AWS (EC2, S3, Glue, Athena) • Power BI • DAX
+
+[→ View on GitHub](https://github.com/AduetDabral1/End-to-End-Data-Pipelines/tree/main/Real_Time_Stock_Data_Analysis_DE_Pipeline)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="48%">
+
+#### 📦 Supply Chain Analytics Dashboard
+
+![Supply Chain](https://img.shields.io/badge/-Power%20BI%20%7C%20BI%20Solution-F2C811?style=flat-square)
+
+Interactive Power BI dashboard for procurement, inventory, logistics visibility with dimensional data models.
+
+**Tech:** Power BI • Power Query • DAX • Data Modeling • Python • SQL
+
+[→ View on GitHub](https://github.com/AduetDabral1/PowerBI/tree/main/Supply%20Chain%20Dashboard)
+
+</td>
+<td width="4%"></td>
+<td width="48%">
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🏆 Certifications
 
-| Badge | Certification | Issuer | Issued | What It Signifies |
-|:---:|:---|:---|:---|:---|
-| 🏆 | **AWS Certified Solutions Architect - Associate** | Amazon Web Services | [Issued Date] | Cloud infrastructure design, scalable architectures, and AWS services expertise |
-| 🤖 | **AWS Certified Machine Learning Engineer - Associate** | Amazon Web Services | [Issued Date] | ML pipelines, model training, deployment, and AWS ML services proficiency |
-| ⚡ | **AWS Certified AI Practitioner** | Amazon Web Services | [Issued Date] | AI/ML fundamentals, generative AI, and responsible AI practices |
-| 📊 | **Data Science and AI Analyst** | IBM | [Issued Date] | Data science methodology, analysis, and AI applications |
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🏆
+#### AWS Solutions Architect - Associate
+
+**Issuer:** Amazon Web Services
+
+**Issued:** [Issued Date]
+
+Cloud infrastructure design, scalable architectures, and AWS services expertise.
+
+</td>
+<td align="center" width="33%">
+
+### 🤖
+#### AWS ML Engineer - Associate
+
+**Issuer:** Amazon Web Services
+
+**Issued:** [Issued Date]
+
+ML pipelines, model training, deployment, and AWS ML services proficiency.
+
+</td>
+<td align="center" width="33%">
+
+### ⚡
+#### AWS AI Practitioner
+
+**Issuer:** Amazon Web Services
+
+**Issued:** [Issued Date]
+
+AI/ML fundamentals, generative AI, and responsible AI practices.
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 📊
+#### Data Science & AI Analyst
+
+**Issuer:** IBM
+
+**Issued:** [Issued Date]
+
+Data science methodology, analysis, and AI application expertise.
+
+</td>
+<td width="33%"></td>
+<td width="33%"></td>
+</tr>
+</table>
 
 ---
 
