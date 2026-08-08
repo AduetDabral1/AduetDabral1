@@ -59,6 +59,8 @@ My interests span **Data Engineering, Cloud Analytics, Business Intelligence, an
 <table>
 <tr>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python"/><br><sub><b>Python</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/><br><sub><b>Linux</b></sub></td>
+<td align="center" width="100"><img src="https://imgs.search.brave.com/LOCXdvc-je6i5zCb3GO84R57_yu6gZARdGR_wYxu-d8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZWR1cmVrYS5jby9i/bG9nL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE4LzA3L1B5U3Bh/cmstbG9nby0xLmpw/ZWc" width="75" height="45" alt="PySpark"/><br><sub><b>PySpark</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git"/><br><sub><b>Git</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/><br><sub><b>Docker</b></sub></td>
 <td align="center" width="100"><img src='https://imgs.search.brave.com/bntF6Zso0YzhcVWJvRYhdd-WOiWyaTdcRO_p_ME8GzM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9mYXN0YXBpLTEu/c3Zn' width="45" height="45" alt="FastAPI"/><br><sub><b>FastAPI</b></sub></td>
@@ -72,24 +74,26 @@ My interests span **Data Engineering, Cloud Analytics, Business Intelligence, an
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/><br><sub><b>PostgreSQL</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/><br><sub><b>MySQL</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="SQL Server"/><br><sub><b>SQL Server</b></sub></td>
+<td align="center" width="100">🏛️<br><sub><b>Data Warehouse</b></sub></td>
 </tr>
 </table>
 
 ### 🚀 Data Engineering & Pipelines
 <table>
 <tr>
-<td align="center" width="100"><img src="https://imgs.search.brave.com/LOCXdvc-je6i5zCb3GO84R57_yu6gZARdGR_wYxu-d8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZWR1cmVrYS5jby9i/bG9nL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE4LzA3L1B5U3Bh/cmstbG9nby0xLmpw/ZWc" width="75" height="45" alt="PySpark"/>
- <br><sub><b>PySpark</b></sub></td>
-<td align="center" width="100"><img src="https://imgs.search.brave.com/rSDAN8LHAwcbeCo0uzoqTKINGQFvFFzFQ7Z9E9wP06Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/dmVjdG9ybG9nby56/b25lL2xvZ29zL2Fw/YWNoZV9zcGFyay9h/cGFjaGVfc3Bhcmst/YXIyMX5iZ3doaXRl/LnN2Zw" width="75" height="45" alt="Apache Spark"/>
- <br><sub><b>Spark</b></sub></td>
-<td align="center" width="100"><img src="https://imgs.search.brave.com/STkEE-tDa232MU6fynENIJH6pa7UJ1_izv_PZp5XMso/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy82/MmE4NzlkYTMwNDhl/NDU5MTQ0ZDAzOGIu/cG5n" width="45" height="45" alt="Apache Kafka"/>
- <br><sub><b>Kafka</b></sub></td>
-<td align="center" width="100"><img src="https://imgs.search.brave.com/uuNqctT8YSMwU18w9M4mK-Y4oXTYtJGPXkfcuwgGRBo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly8xMDAw/bWFyY2FzLm5ldC93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8w/MS9EYXRhYnJpY2tz/LUxvZ28tNTAweDI4/MS5wbmc" width="60" height="45" alt="Databricks"/>
- <br><sub><b>Databricks</b></sub></td>
-<td align="center" width="100"><img src="https://imgs.search.brave.com/_QXuc02MRkaJlGUAs5FveJx6rZHqY1Mxp8muen7ET7A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/anNkZWxpdnIubmV0/L2doL2hvbWFyci1s/YWJzL2Rhc2hib2Fy/ZC1pY29ucy9wbmcv/YXBhY2hlLWFpcmZs/b3cucG5n" width="45" height="45" alt="Apache Apache Airflow"/>
- <br><sub><b>Airflow</b></sub></td>
-<td align="center" width="100"><img src="https://imgs.search.brave.com/eigDPn1411SjTG89YJidgdRyb0XEkTx8mezh7NMhRPU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/djIvMSpCTE1rTl9K/RDRlLS1UQVVPcWFW/ZjZBLnBuZw" width="45" height="45" alt="MageAI"/>
- <br><sub><b>Mage AI</b></sub></td>
+<td align="center" width="100"><img src="https://imgs.search.brave.com/rSDAN8LHAwcbeCo0uzoqTKINGQFvFFzFQ7Z9E9wP06Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/dmVjdG9ybG9nby56/b25lL2xvZ29zL2Fw/YWNoZV9zcGFyay9h/cGFjaGVfc3Bhcmst/YXIyMX5iZ3doaXRl/LnN2Zw" width="75" height="45" alt="Apache Spark"/><br><sub><b>Spark</b></sub></td>
+<td align="center" width="100"><img src="https://imgs.search.brave.com/STkEE-tDa232MU6fynENIJH6pa7UJ1_izv_PZp5XMso/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy82/MmE4NzlkYTMwNDhl/NDU5MTQ0ZDAzOGIu/cG5n" width="45" height="45" alt="Apache Kafka"/><br><sub><b>Kafka</b></sub></td>
+<td align="center" width="100"><img src="https://imgs.search.brave.com/uuNqctT8YSMwU18w9M4mK-Y4oXTYtJGPXkfcuwgGRBo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly8xMDAw/bWFyY2FzLm5ldC93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8w/MS9EYXRhYnJpY2tz/LUxvZ28tNTAweDI4/MS5wbmc" width="60" height="45" alt="Databricks"/><br><sub><b>Databricks</b></sub></td>
+<td align="center" width="100"><img src="https://imgs.search.brave.com/_QXuc02MRkaJlGUAs5FveJx6rZHqY1Mxp8muen7ET7A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/anNkZWxpdnIubmV0/L2doL2hvbWFyci1s/YWJzL2Rhc2hib2Fy/ZC1pY29ucy9wbmcv/YXBhY2hlLWFpcmZs/b3cudG5n" width="45" height="45" alt="Apache Airflow"/><br><sub><b>Airflow</b></sub></td>
+<td align="center" width="100"><img src="https://imgs.search.brave.com/eigDPn1411SjTG89YJidgdRyb0XEkTx8mezh7NMhRPU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/djIvMSpCTE1rTl9K/RDRlLS1UQVVPcWFW/ZjZBLnBuZw" width="45" height="45" alt="MageAI"/><br><sub><b>Mage AI</b></sub></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="100"><img src="https://imgs.search.brave.com/yJQH-X0KjN_J-T5LM7FVHZ3d-k_8K5y5Q1pKqDz8RVg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/anNkZWxpdnIubmV0/L2doL2hvbWFyci1s/YWJzL2Rhc2hib2Fy/ZC1pY29ucy9wbmcv/YXp1cmUtZGF0YS1m/YWN0b3J5LnBuZw" width="45" height="45" alt="Azure Data Factory"/><br><sub><b>Azure Data Factory</b></sub></td>
+<td align="center" width="100">⚙️<br><sub><b>ETL/ELT</b></sub></td>
+<td align="center" width="100">🧹<br><sub><b>Data Wrangling</b></sub></td>
 </tr>
 </table>
 
@@ -102,37 +106,39 @@ My interests span **Data Engineering, Cloud Analytics, Business Intelligence, an
 </tr>
 </table>
 
-### 📊 Data Analysis & BI
+### 📊 Data Analysis & Business Intelligence
 <table>
 <tr>
-<td align="center" width="100"><img src="https://imgs.search.brave.com/pA8dAIVXB1frlDBRuuoMBSzRlPIZuUMtKpsIGg5pttU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/anNkZWxpdnIubmV0/L2doL2hvbWFyci1s/YWJzL2Rhc2hib2Fy/ZC1pY29ucy9wbmcv/cG93ZXJiaS5wbmc" width="45" height="45" alt="Power BI"/>
- <br><sub><b>Power BI</b></sub></td>
- 
-<td align="center" width="100"><img src="https://imgs.search.brave.com/LHpib8hI_Acir6mSl6_6_ozJOWW6T7sYieKAkZO4afU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naXRo/dWIuY29tL21pY3Jv/c29mdC9Qb3dlckJJ/LUljb25zL3Jhdy9t/YWluL1BORy9wYml4/LnBuZw" width="45" height="45" alt="DAX"/>
- <br><sub><b>DAX</b></sub></td>
- 
-<td align="center" width="100"><img src="https://imgs.search.brave.com/s2OUPU3QBLJGgmsHyHHGyN6iR_tiRui9Pp7PiWb8zXM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9vbGFz/LmllL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIyLzEwL1Bvd2Vy/UXVlcnktTG9nby5w/bmc" width="45" height="45" alt="Power Query"/>
- <br><sub><b>Power Query</b></sub></td>
- 
-<td align="center" width="100"><img src="https://imgs.search.brave.com/NyK3GyiwYLl6970jdh_asM1A4H6xC3c7P50osYAdzG8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly8xMDAw/bG9nb3MubmV0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI0LzEw/L0JpZ1F1ZXJ5LUxv/Z28tNTAweDI4MS5q/cGc" width="70" height="45" alt="BigQuery"/>
- <br><sub><b>BigQuery</b></sub></td>
- 
-<td align="center" width="100"><img src="https://imgs.search.brave.com/M1_OvZqMPJaBRsU_FwCqSBUOBUuW1ncFF9Q8TXI9hUE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzMwLzIvbWljcm9z/b2Z0LWV4Y2VsLWxv/Z28tcG5nX3NlZWts/b2dvLTMwMDExMC5w/bmc" width="45" height="45" alt="Advanced Excel"/>
- <br><sub><b>MS Excel</b></sub></td>
- 
+<td align="center" width="100"><img src="https://imgs.search.brave.com/pA8dAIVXB1frlDBRuuoMBSzRlPIZuUMtKpsIGg5pttU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/anNkZWxpdnIubmV0/L2doL2hvbWFyci1s/YWJzL2Rhc2hib2Fy/ZC1pY29ucy9wbmcv/cG93ZXJiaS5wbmc" width="45" height="45" alt="Power BI"/><br><sub><b>Power BI</b></sub></td>
+<td align="center" width="100"><img src="https://imgs.search.brave.com/LHpib8hI_Acir6mSl6_6_ozJOWW6T7sYieKAkZO4afU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naXRo/dWIuY29tL21pY3Jv/c29mdC9Qb3dlckJJ/LUljb25zL3Jhdy9t/YWluL1BORy9wYml4/LnBuZw" width="45" height="45" alt="DAX"/><br><sub><b>DAX</b></sub></td>
+<td align="center" width="100"><img src="https://imgs.search.brave.com/s2OUPU3QBLJGgmsHyHHGyN6iR_tiRui9Pp7PiWb8zXM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9vbGFz/LmllL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIyLzEwL1Bvd2Vy/UXVlcnktTG9nby5w/bmc" width="45" height="45" alt="Power Query"/><br><sub><b>Power Query</b></sub></td>
+<td align="center" width="100"><img src="https://imgs.search.brave.com/NyK3GyiwYLl6970jdh_asM1A4H6xC3c7P50osYAdzG8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly8xMDAw/bG9nb3MubmV0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI0LzEw/L0JpZ1F1ZXJ5LUxv/Z28tNTAweDI4MS5q/cGc" width="70" height="45" alt="BigQuery"/><br><sub><b>BigQuery</b></sub></td>
+<td align="center" width="100"><img src="https://imgs.search.brave.com/M1_OvZqMPJaBRsU_FwCqSBUOBUuW1ncFF9Q8TXI9hUE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzMwLzIvbWljcm9z/b2Z0LWV4Y2VsLWxv/Z28tcG5nX3NlZWts/b2dvLTMwMDExMC5w/bmc" width="45" height="45" alt="MS Excel"/><br><sub><b>MS Excel</b></sub></td>
+<td align="center" width="100">📊<br><sub><b>Google Data Studio</b></sub></td>
 </tr>
 </table>
 
-### 🐍 Data Processing & Libraries
 <table>
 <tr>
-<td align="center" width="100">
- <img src="https://imgs.search.brave.com/nJeNqYb6hHMeVh_NrWL5ljGVvoW8nlildkx-nJO7N_8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5wbmdhYWEuY29t/LzI5Ni8xOTQ3Mjk2/LW1pZGRsZS5wbmc" width="45" height="45" alt="Pandas"/>
- <br><sub><b>Pandas</b></sub></td>
- 
-<td align="center" width="100">
- <img src="https://imgs.search.brave.com/6zZLE6ZqLbqKYhdIFtf04Fn61rdnd1qCfiUCxJCVn4I/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9udW1w/eS5vcmcvaW1hZ2Vz/L2xvZ28uc3Zn" width="45" height="45" alt="NumPy"/>
- <br><sub><b>NumPy</b></sub></td>
+<td align="center" width="100">🔍<br><sub><b>EDA</b></sub></td>
+</tr>
+</table>
+
+### 🐍 Data Processing & Visualization Libraries
+<table>
+<tr>
+<td align="center" width="100"><img src="https://imgs.search.brave.com/nJeNqYb6hHMeVh_NrWL5ljGVvoW8nlildkx-nJO7N_8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5wbmdhYWEuY29t/LzI5Ni8xOTQ3Mjk2/LW1pZGRsZS5wbmc" width="45" height="45" alt="Pandas"/><br><sub><b>Pandas</b></sub></td>
+<td align="center" width="100"><img src="https://imgs.search.brave.com/6zZLE6ZqLbqKYhdIFtf04Fn61rdnd1qCfiUCxJCVn4I/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9udW1w/eS5vcmcvaW1hZ2Vz/L2xvZ28uc3Zn" width="45" height="45" alt="NumPy"/><br><sub><b>NumPy</b></sub></td>
+<td align="center" width="100">📈<br><sub><b>Matplotlib</b></sub></td>
+<td align="center" width="100">🎨<br><sub><b>Seaborn</b></sub></td>
+</tr>
+</table>
+
+### 📐 Data Science & Modeling Fundamentals
+<table>
+<tr>
+<td align="center" width="100">🏗️<br><sub><b>Data Modeling</b></sub></td>
+<td align="center" width="100">📊<br><sub><b>Statistics</b></sub></td>
 </tr>
 </table>
 
