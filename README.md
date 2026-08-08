@@ -78,13 +78,13 @@ My interests span **Data Engineering, Cloud Analytics, Business Intelligence, an
 ### 🚀 Data Engineering & Pipelines
 <table>
 <tr>
-<td align="center" width="100"><img src="https://imgs.search.brave.com/LOCXdvc-je6i5zCb3GO84R57_yu6gZARdGR_wYxu-d8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZWR1cmVrYS5jby9i/bG9nL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE4LzA3L1B5U3Bh/cmstbG9nby0xLmpw/ZWc" width="45" height="45" alt="PySpark"/>
+<td align="center" width="100"><img src="https://imgs.search.brave.com/LOCXdvc-je6i5zCb3GO84R57_yu6gZARdGR_wYxu-d8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZWR1cmVrYS5jby9i/bG9nL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE4LzA3L1B5U3Bh/cmstbG9nby0xLmpw/ZWc" width="75" height="45" alt="PySpark"/>
  <br><sub><b>PySpark</b></sub></td>
-<td align="center" width="100"><img src="https://imgs.search.brave.com/rSDAN8LHAwcbeCo0uzoqTKINGQFvFFzFQ7Z9E9wP06Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/dmVjdG9ybG9nby56/b25lL2xvZ29zL2Fw/YWNoZV9zcGFyay9h/cGFjaGVfc3Bhcmst/YXIyMX5iZ3doaXRl/LnN2Zw" width="45" height="45" alt="Apache Spark"/>
+<td align="center" width="100"><img src="https://imgs.search.brave.com/rSDAN8LHAwcbeCo0uzoqTKINGQFvFFzFQ7Z9E9wP06Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/dmVjdG9ybG9nby56/b25lL2xvZ29zL2Fw/YWNoZV9zcGFyay9h/cGFjaGVfc3Bhcmst/YXIyMX5iZ3doaXRl/LnN2Zw" width="75" height="45" alt="Apache Spark"/>
  <br><sub><b>Apache Spark</b></sub></td>
 <td align="center" width="100"><img src="https://imgs.search.brave.com/STkEE-tDa232MU6fynENIJH6pa7UJ1_izv_PZp5XMso/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy82/MmE4NzlkYTMwNDhl/NDU5MTQ0ZDAzOGIu/cG5n" width="45" height="45" alt="Apache Kafka"/>
  <br><sub><b>Apache Kafka</b></sub></td>
-<td align="center" width="100"><img src="https://imgs.search.brave.com/uuNqctT8YSMwU18w9M4mK-Y4oXTYtJGPXkfcuwgGRBo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly8xMDAw/bWFyY2FzLm5ldC93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8w/MS9EYXRhYnJpY2tz/LUxvZ28tNTAweDI4/MS5wbmc" width="45" height="45" alt="Databricks"/>
+<td align="center" width="100"><img src="https://imgs.search.brave.com/uuNqctT8YSMwU18w9M4mK-Y4oXTYtJGPXkfcuwgGRBo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly8xMDAw/bWFyY2FzLm5ldC93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8w/MS9EYXRhYnJpY2tz/LUxvZ28tNTAweDI4/MS5wbmc" width="60" height="45" alt="Databricks"/>
  <br><sub><b>Databricks</b></sub></td>
 <td align="center" width="100"><img src="https://imgs.search.brave.com/_QXuc02MRkaJlGUAs5FveJx6rZHqY1Mxp8muen7ET7A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/anNkZWxpdnIubmV0/L2doL2hvbWFyci1s/YWJzL2Rhc2hib2Fy/ZC1pY29ucy9wbmcv/YXBhY2hlLWFpcmZs/b3cucG5n" width="45" height="45" alt="Apache Apache Airflow"/>
  <br><sub><b>Apache Airflow</b></sub></td>
@@ -118,7 +118,7 @@ My interests span **Data Engineering, Cloud Analytics, Business Intelligence, an
  <br><sub><b>BigQuery</b></sub></td>
  
 <td align="center" width="100"><img src="https://imgs.search.brave.com/M1_OvZqMPJaBRsU_FwCqSBUOBUuW1ncFF9Q8TXI9hUE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzMwLzIvbWljcm9z/b2Z0LWV4Y2VsLWxv/Z28tcG5nX3NlZWts/b2dvLTMwMDExMC5w/bmc" width="45" height="45" alt="Advanced Excel"/>
- <br><sub><b>Advanced Excel</b></sub></td>
+ <br><sub><b>MS Excel</b></sub></td>
  
 </tr>
 </table>
