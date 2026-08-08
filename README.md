@@ -114,7 +114,7 @@ My interests span **Data Engineering, Cloud Analytics, Business Intelligence, an
 <td align="center" width="100"><img src="https://imgs.search.brave.com/s2OUPU3QBLJGgmsHyHHGyN6iR_tiRui9Pp7PiWb8zXM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9vbGFz/LmllL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIyLzEwL1Bvd2Vy/UXVlcnktTG9nby5w/bmc" width="45" height="45" alt="Power Query"/>
  <br><sub><b>Power Query</b></sub></td>
  
-<td align="center" width="100"><img src="https://imgs.search.brave.com/NyK3GyiwYLl6970jdh_asM1A4H6xC3c7P50osYAdzG8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly8xMDAw/bG9nb3MubmV0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI0LzEw/L0JpZ1F1ZXJ5LUxv/Z28tNTAweDI4MS5q/cGc" width="45" height="45" alt="BigQuery"/>
+<td align="center" width="100"><img src="https://imgs.search.brave.com/NyK3GyiwYLl6970jdh_asM1A4H6xC3c7P50osYAdzG8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly8xMDAw/bG9nb3MubmV0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI0LzEw/L0JpZ1F1ZXJ5LUxv/Z28tNTAweDI4MS5q/cGc" width="70" height="45" alt="BigQuery"/>
  <br><sub><b>BigQuery</b></sub></td>
  
 <td align="center" width="100"><img src="https://imgs.search.brave.com/M1_OvZqMPJaBRsU_FwCqSBUOBUuW1ncFF9Q8TXI9hUE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzMwLzIvbWljcm9z/b2Z0LWV4Y2VsLWxv/Z28tcG5nX3NlZWts/b2dvLTMwMDExMC5w/bmc" width="45" height="45" alt="Advanced Excel"/>
