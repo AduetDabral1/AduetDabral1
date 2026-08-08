@@ -8,7 +8,6 @@
 
 <div align="center">
 
-| | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AduetDabral1) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aduet-dabral) | [![Portfolio](https://img.shields.io/badge/-Portfolio-8B5CF6?style=for-the-badge&logo=globe&logoColor=white)](https://aduetdabral1.github.io/aduet-portfolio/) | [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dabral.aduet@gmail.com) | [![Resume](https://img.shields.io/badge/-Resume-D91E63?style=for-the-badge&logo=adobe&logoColor=white)](./resume.pdf) | [![Cover Letter](https://img.shields.io/badge/-Letter-6366F1?style=for-the-badge&logo=adobe&logoColor=white)](./cover_letter.pdf) |
 
@@ -18,9 +17,12 @@
 
 ## 🧭 Quick Navigation
 
-| Section | | | | | |
+<div align="center">
+  
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [💁 About](#about-me) | [⚙️ What I Do](#what-i-work-on) | [🛠️ Tech Stack](#tech-stack) | [🎯 Projects](#featured-projects) | [🏆 Certifications](#certifications) | [⚡ Rapidfire](#⚡-rapidfire) |
+  
+</div>
 
 ---
 
@@ -60,15 +62,15 @@ My interests span **Data Engineering, Cloud Analytics, Business Intelligence, an
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python"/><br><sub><b>Python</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git"/><br><sub><b>Git</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/><br><sub><b>Docker</b></sub></td>
-<td align="center" width="100">⚡<br><sub><b>FastAPI</b></sub></td>
-<td align="center" width="100">🔌<br><sub><b>REST APIs</b></sub></td>
+<td align="center" width="100"><img src='https://imgs.search.brave.com/bntF6Zso0YzhcVWJvRYhdd-WOiWyaTdcRO_p_ME8GzM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9mYXN0YXBpLTEu/c3Zn' width="45" height="45" alt="FastAPI"/><br><sub><b>FastAPI</b></sub></td>
+<td align="center" width="100"><img src='https://imgs.search.brave.com/ni7gJvIW4BB-V-HDqjd_IW6w28dhrivKJG3eeRtFojE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Y2xpcGFydG1heC5j/b20vcG5nL21pZGRs/ZS8yODUtMjg1MTA0/NF9yZXN0ZnVsLXNl/YXJjaC1hcGktcmVz/dC13ZWItc2Vydmlj/ZXMtbG9nby5wbmc' width="45" height="45" alt="Rest API"/><br><sub><b>REST APIs</b></sub></td>
 </tr>
 </table>
 
 ### 🗄️ Databases & SQL
 <table>
 <tr>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="SQL"/><br><sub><b>SQL</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/><br><sub><b>PostgreSQL</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/><br><sub><b>MySQL</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="SQL Server"/><br><sub><b>SQL Server</b></sub></td>
 </tr>
@@ -77,7 +79,7 @@ My interests span **Data Engineering, Cloud Analytics, Business Intelligence, an
 ### 🚀 Data Engineering & Pipelines
 <table>
 <tr>
-<td align="center" width="100">🔥<br><sub><b>PySpark</b></sub></td>
+<td align="center" width="100"><br><sub><b>PySpark</b></sub></td>
 <td align="center" width="100">🔥<br><sub><b>Apache Spark</b></sub></td>
 <td align="center" width="100">🚀<br><sub><b>Apache Kafka</b></sub></td>
 <td align="center" width="100">📊<br><sub><b>Databricks</b></sub></td>
