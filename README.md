@@ -15,16 +15,6 @@
 
 ---
 
-## 🧭 Quick Navigation
-
-<div align="center">
-  
- [![About](https://img.shields.io/badge/-About-0052CC?style=for-the-badge&logo=about.me&logoColor=white)](#about-me)  [![What I Do](https://img.shields.io/badge/-What_I_Do-2E8B57?style=for-the-badge&logo=codeforces&logoColor=white)](#what-i-work-on)  [![Tech Stack](https://img.shields.io/badge/-Tech_Stack-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#tech-stack)  [![Projects](https://img.shields.io/badge/-Projects-6f42c1?style=for-the-badge&logo=git&logoColor=white)](#featured-projects)  [![Certifications](https://img.shields.io/badge/-Certifications-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](#certifications) 
-  
-</div>
-
----
-
 ## 🚀 About Me
 
 I'm a **Data Professional** living across the entire data lifecycle — from tuning low-level SQL queries in production databases to building scalable cloud pipelines and crafting interactive dashboards that business leaders actually rely on.
@@ -53,6 +43,16 @@ My interests span **Data Engineering, Cloud Analytics, Business Intelligence, an
 
 ---
 
+## 🧭 Quick Navigation
+
+<div align="center">
+  
+[![Tech Stack](https://img.shields.io/badge/-Tech_Stack-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#tech-stack)  [![Projects](https://img.shields.io/badge/-Projects-6f42c1?style=for-the-badge&logo=git&logoColor=white)](#featured-projects)  [![Certifications](https://img.shields.io/badge/-Certifications-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](#certifications) 
+  
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Coding & Scripting
@@ -78,12 +78,18 @@ My interests span **Data Engineering, Cloud Analytics, Business Intelligence, an
 ### 🚀 Data Engineering & Pipelines
 <table>
 <tr>
-<td align="center" width="100"><br><sub><b>PySpark</b></sub></td>
-<td align="center" width="100">🔥<br><sub><b>Apache Spark</b></sub></td>
-<td align="center" width="100">🚀<br><sub><b>Apache Kafka</b></sub></td>
-<td align="center" width="100">📊<br><sub><b>Databricks</b></sub></td>
-<td align="center" width="100">✈️<br><sub><b>Apache Airflow</b></sub></td>
-<td align="center" width="100">✨<br><sub><b>Mage AI</b></sub></td>
+<td align="center" width="100"><img src="https://imgs.search.brave.com/LOCXdvc-je6i5zCb3GO84R57_yu6gZARdGR_wYxu-d8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZWR1cmVrYS5jby9i/bG9nL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE4LzA3L1B5U3Bh/cmstbG9nby0xLmpw/ZWc" width="45" height="45" alt="PySpark"/>
+ <br><sub><b>PySpark</b></sub></td>
+<td align="center" width="100"><img src="https://imgs.search.brave.com/rSDAN8LHAwcbeCo0uzoqTKINGQFvFFzFQ7Z9E9wP06Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/dmVjdG9ybG9nby56/b25lL2xvZ29zL2Fw/YWNoZV9zcGFyay9h/cGFjaGVfc3Bhcmst/YXIyMX5iZ3doaXRl/LnN2Zw" width="45" height="45" alt="Apache Spark"/>
+ <br><sub><b>Apache Spark</b></sub></td>
+<td align="center" width="100"><img src="https://imgs.search.brave.com/STkEE-tDa232MU6fynENIJH6pa7UJ1_izv_PZp5XMso/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy82/MmE4NzlkYTMwNDhl/NDU5MTQ0ZDAzOGIu/cG5n" width="45" height="45" alt="Apache Kafka"/>
+ <br><sub><b>Apache Kafka</b></sub></td>
+<td align="center" width="100"><img src="https://imgs.search.brave.com/uuNqctT8YSMwU18w9M4mK-Y4oXTYtJGPXkfcuwgGRBo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly8xMDAw/bWFyY2FzLm5ldC93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8w/MS9EYXRhYnJpY2tz/LUxvZ28tNTAweDI4/MS5wbmc" width="45" height="45" alt="Databricks"/>
+ <br><sub><b>Databricks</b></sub></td>
+<td align="center" width="100"><img src="https://imgs.search.brave.com/_QXuc02MRkaJlGUAs5FveJx6rZHqY1Mxp8muen7ET7A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/anNkZWxpdnIubmV0/L2doL2hvbWFyci1s/YWJzL2Rhc2hib2Fy/ZC1pY29ucy9wbmcv/YXBhY2hlLWFpcmZs/b3cucG5n" width="45" height="45" alt="Apache Apache Airflow"/>
+ <br><sub><b>Apache Airflow</b></sub></td>
+<td align="center" width="100"><img src="https://imgs.search.brave.com/eigDPn1411SjTG89YJidgdRyb0XEkTx8mezh7NMhRPU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/djIvMSpCTE1rTl9K/RDRlLS1UQVVPcWFW/ZjZBLnBuZw" width="45" height="45" alt="MageAI"/>
+ <br><sub><b>Mage AI</b></sub></td>
 </tr>
 </table>
 
@@ -99,19 +105,34 @@ My interests span **Data Engineering, Cloud Analytics, Business Intelligence, an
 ### 📊 Data Analysis & BI
 <table>
 <tr>
-<td align="center" width="100">📊<br><sub><b>Power BI</b></sub></td>
-<td align="center" width="100">📉<br><sub><b>DAX</b></sub></td>
-<td align="center" width="100">🔄<br><sub><b>Power Query</b></sub></td>
-<td align="center" width="100">📈<br><sub><b>BigQuery</b></sub></td>
-<td align="center" width="100">📑<br><sub><b>Excel</b></sub></td>
+<td align="center" width="100"><img src="https://imgs.search.brave.com/pA8dAIVXB1frlDBRuuoMBSzRlPIZuUMtKpsIGg5pttU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/anNkZWxpdnIubmV0/L2doL2hvbWFyci1s/YWJzL2Rhc2hib2Fy/ZC1pY29ucy9wbmcv/cG93ZXJiaS5wbmc" width="45" height="45" alt="Power BI"/>
+ <br><sub><b>Power BI</b></sub></td>
+ 
+<td align="center" width="100"><img src="https://imgs.search.brave.com/LHpib8hI_Acir6mSl6_6_ozJOWW6T7sYieKAkZO4afU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naXRo/dWIuY29tL21pY3Jv/c29mdC9Qb3dlckJJ/LUljb25zL3Jhdy9t/YWluL1BORy9wYml4/LnBuZw" width="45" height="45" alt="DAX"/>
+ <br><sub><b>DAX</b></sub></td>
+ 
+<td align="center" width="100"><img src="https://imgs.search.brave.com/s2OUPU3QBLJGgmsHyHHGyN6iR_tiRui9Pp7PiWb8zXM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9vbGFz/LmllL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIyLzEwL1Bvd2Vy/UXVlcnktTG9nby5w/bmc" width="45" height="45" alt="Power Query"/>
+ <br><sub><b>Power Query</b></sub></td>
+ 
+<td align="center" width="100"><img src="https://imgs.search.brave.com/NyK3GyiwYLl6970jdh_asM1A4H6xC3c7P50osYAdzG8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly8xMDAw/bG9nb3MubmV0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI0LzEw/L0JpZ1F1ZXJ5LUxv/Z28tNTAweDI4MS5q/cGc" width="45" height="45" alt="BigQuery"/>
+ <br><sub><b>BigQuery</b></sub></td>
+ 
+<td align="center" width="100"><img src="https://imgs.search.brave.com/M1_OvZqMPJaBRsU_FwCqSBUOBUuW1ncFF9Q8TXI9hUE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzMwLzIvbWljcm9z/b2Z0LWV4Y2VsLWxv/Z28tcG5nX3NlZWts/b2dvLTMwMDExMC5w/bmc" width="45" height="45" alt="Advanced Excel"/>
+ <br><sub><b>Advanced Excel</b></sub></td>
+ 
 </tr>
 </table>
 
 ### 🐍 Data Processing & Libraries
 <table>
 <tr>
-<td align="center" width="100">🐼<br><sub><b>Pandas</b></sub></td>
-<td align="center" width="100">🔢<br><sub><b>NumPy</b></sub></td>
+<td align="center" width="100">
+ <img src="https://imgs.search.brave.com/nJeNqYb6hHMeVh_NrWL5ljGVvoW8nlildkx-nJO7N_8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5wbmdhYWEuY29t/LzI5Ni8xOTQ3Mjk2/LW1pZGRsZS5wbmc" width="45" height="45" alt="Pandas"/>
+ <br><sub><b>Pandas</b></sub></td>
+ 
+<td align="center" width="100">
+ <img src="https://imgs.search.brave.com/6zZLE6ZqLbqKYhdIFtf04Fn61rdnd1qCfiUCxJCVn4I/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9udW1w/eS5vcmcvaW1hZ2Vz/L2xvZ28uc3Zn" width="45" height="45" alt="NumPy"/>
+ <br><sub><b>NumPy</b></sub></td>
 </tr>
 </table>
 
