@@ -91,9 +91,14 @@ My interests span **Data Engineering, Cloud Analytics, Business Intelligence, an
 
 <table>
 <tr>
-<td align="center" width="100"><img src="https://imgs.search.brave.com/yJQH-X0KjN_J-T5LM7FVHZ3d-k_8K5y5Q1pKqDz8RVg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/anNkZWxpdnIubmV0/L2doL2hvbWFyci1s/YWJzL2Rhc2hib2Fy/ZC1pY29ucy9wbmcv/YXp1cmUtZGF0YS1m/YWN0b3J5LnBuZw" width="45" height="45" alt="Azure Data Factory"/><br><sub><b>Azure Data Factory</b></sub></td>
-<td align="center" width="100">⚙️<br><sub><b>ETL/ELT</b></sub></td>
-<td align="center" width="100">🧹<br><sub><b>Data Wrangling</b></sub></td>
+<td align="center" width="100"><img src="https://imgs.search.brave.com/FBXxOwBv-YhU6hePZWvyyEocN1fpV1n2jZtVTqhnh_Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/anNkZWxpdnIubmV0/L2doL2hvbWFyci1s/YWJzL2Rhc2hib2Fy/ZC1pY29ucy93ZWJw/L2F6dXJlLWRhdGEt/ZmFjdG9yeS53ZWJw" width="45" height="45" alt="Azure Data Factory"/><br><sub><b>Azure Data Factory</b></sub></td>
+<td align="center" width="100">
+ <img src="https://imgs.search.brave.com/AihrqkYO-nmqtqP58_j8fAqE4WKv_dJKp7Twu4q_y9M/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL3ByZW1p/dW0vcG5nLTI1Ni10/aHVtYi9ldGwtaWNv/bi1zdmctZG93bmxv/YWQtcG5nLTEyMzM2/MTk3LnBuZz9mPXdl/YnAmdz0xMjg" width="45" height="45" alt="ETL/ELT"/>
+ <br><sub><b>ETL/ELT</b></sub></td>
+ 
+<td align="center" width="100">
+ <img src="https://imgs.search.brave.com/NYQqAE0fIjshU57mbOMweVKV50xQWC28vh1h1zwO0zE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/bWFnbmlmaWMuY29t/L2ZyZWUtdmVjdG9y/L2lsbHVzdHJhdGlv/bi1zb2NpYWwtbWVk/aWEtY29uY2VwdF81/Mzg3Ni0xODE0MC5q/cGc_c2VtdD1haXNf/aHlicmlkJnc9NzQw/JnE9ODA" width="45" height="45" alt="Data Wrangling"/>
+ <br><sub><b>Data Wrangling</b></sub></td>
 </tr>
 </table>
 
@@ -115,11 +120,6 @@ My interests span **Data Engineering, Cloud Analytics, Business Intelligence, an
 <td align="center" width="100"><img src="https://imgs.search.brave.com/NyK3GyiwYLl6970jdh_asM1A4H6xC3c7P50osYAdzG8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly8xMDAw/bG9nb3MubmV0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI0LzEw/L0JpZ1F1ZXJ5LUxv/Z28tNTAweDI4MS5q/cGc" width="70" height="45" alt="BigQuery"/><br><sub><b>BigQuery</b></sub></td>
 <td align="center" width="100"><img src="https://imgs.search.brave.com/M1_OvZqMPJaBRsU_FwCqSBUOBUuW1ncFF9Q8TXI9hUE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzMwLzIvbWljcm9z/b2Z0LWV4Y2VsLWxv/Z28tcG5nX3NlZWts/b2dvLTMwMDExMC5w/bmc" width="45" height="45" alt="MS Excel"/><br><sub><b>MS Excel</b></sub></td>
 <td align="center" width="100">📊<br><sub><b>Google Data Studio</b></sub></td>
-</tr>
-</table>
-
-<table>
-<tr>
 <td align="center" width="100">🔍<br><sub><b>EDA</b></sub></td>
 </tr>
 </table>
