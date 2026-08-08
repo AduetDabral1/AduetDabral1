@@ -84,13 +84,8 @@ My interests span **Data Engineering, Cloud Analytics, Business Intelligence, an
 <td align="center" width="100"><img src="https://imgs.search.brave.com/rSDAN8LHAwcbeCo0uzoqTKINGQFvFFzFQ7Z9E9wP06Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/dmVjdG9ybG9nby56/b25lL2xvZ29zL2Fw/YWNoZV9zcGFyay9h/cGFjaGVfc3Bhcmst/YXIyMX5iZ3doaXRl/LnN2Zw" width="75" height="45" alt="Apache Spark"/><br><sub><b>Spark</b></sub></td>
 <td align="center" width="100"><img src="https://imgs.search.brave.com/STkEE-tDa232MU6fynENIJH6pa7UJ1_izv_PZp5XMso/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy82/MmE4NzlkYTMwNDhl/NDU5MTQ0ZDAzOGIu/cG5n" width="45" height="45" alt="Apache Kafka"/><br><sub><b>Kafka</b></sub></td>
 <td align="center" width="100"><img src="https://imgs.search.brave.com/uuNqctT8YSMwU18w9M4mK-Y4oXTYtJGPXkfcuwgGRBo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly8xMDAw/bWFyY2FzLm5ldC93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8w/MS9EYXRhYnJpY2tz/LUxvZ28tNTAweDI4/MS5wbmc" width="60" height="45" alt="Databricks"/><br><sub><b>Databricks</b></sub></td>
-<td align="center" width="100"><img src="https://imgs.search.brave.com/_QXuc02MRkaJlGUAs5FveJx6rZHqY1Mxp8muen7ET7A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/anNkZWxpdnIubmV0/L2doL2hvbWFyci1s/YWJzL2Rhc2hib2Fy/ZC1pY29ucy9wbmcv/YXBhY2hlLWFpcmZs/b3cudG5n" width="45" height="45" alt="Apache Airflow"/><br><sub><b>Airflow</b></sub></td>
+<td align="center" width="100"><img src="https://imgs.search.brave.com/g-3nqHNJD2BI_qlA1XjVi405QsrkVKFpUriz98ei0Co/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bmljZXBuZy5jb20v/cG5nL2Z1bGwvMjgy/LTI4Mjk2ODVfaW1h/Z2VzLXBpbi1sYXJn/ZS1hcGFjaGUtYWly/Zmxvdy1sb2dvLnBu/Zw" width="45" height="45" alt="Apache Airflow"/><br><sub><b>Airflow</b></sub></td>
 <td align="center" width="100"><img src="https://imgs.search.brave.com/eigDPn1411SjTG89YJidgdRyb0XEkTx8mezh7NMhRPU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/djIvMSpCTE1rTl9K/RDRlLS1UQVVPcWFW/ZjZBLnBuZw" width="45" height="45" alt="MageAI"/><br><sub><b>Mage AI</b></sub></td>
-</tr>
-</table>
-
-<table>
-<tr>
 <td align="center" width="100"><img src="https://imgs.search.brave.com/FBXxOwBv-YhU6hePZWvyyEocN1fpV1n2jZtVTqhnh_Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/anNkZWxpdnIubmV0/L2doL2hvbWFyci1s/YWJzL2Rhc2hib2Fy/ZC1pY29ucy93ZWJw/L2F6dXJlLWRhdGEt/ZmFjdG9yeS53ZWJw" width="45" height="45" alt="Azure Data Factory"/><br><sub><b>Azure Data Factory</b></sub></td>
 <td align="center" width="100">
  <img src="https://imgs.search.brave.com/AihrqkYO-nmqtqP58_j8fAqE4WKv_dJKp7Twu4q_y9M/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL3ByZW1p/dW0vcG5nLTI1Ni10/aHVtYi9ldGwtaWNv/bi1zdmctZG93bmxv/YWQtcG5nLTEyMzM2/MTk3LnBuZz9mPXdl/YnAmdz0xMjg" width="45" height="45" alt="ETL/ELT"/>
