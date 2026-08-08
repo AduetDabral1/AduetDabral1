@@ -20,7 +20,7 @@
 <div align="center">
   
 
-|    [![💁 About](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#about-me)    |    [⚙️ What I Do](#what-i-work-on)    |    [🛠️ Tech Stack](#tech-stack)    |    [🎯 Projects](#featured-projects)    |    [🏆 Certifications](#certifications)    | 
+|    [![💁 About](https://img.shields.io/badge/-About-0052CC?style=for-the-badge&logo=about.me&logoColor=white)](#about-me)    |    [⚙️ What I Do](#what-i-work-on)    |    [🛠️ Tech Stack](#tech-stack)    |    [🎯 Projects](#featured-projects)    |    [🏆 Certifications](#certifications)    | 
   
 </div>
 
