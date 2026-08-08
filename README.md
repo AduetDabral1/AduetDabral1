@@ -8,7 +8,7 @@
 
 <div align="center">
 
-| | | | | | |
+
 | [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AduetDabral1) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aduet-dabral) | [![Portfolio](https://img.shields.io/badge/-Portfolio-8B5CF6?style=for-the-badge&logo=globe&logoColor=white)](https://aduetdabral1.github.io/aduet-portfolio/) | [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dabral.aduet@gmail.com) | [![Resume](https://img.shields.io/badge/-Resume-D91E63?style=for-the-badge&logo=adobe&logoColor=white)](./resume.pdf) | [![Cover Letter](https://img.shields.io/badge/-Letter-6366F1?style=for-the-badge&logo=adobe&logoColor=white)](./cover_letter.pdf) |
 
 </div>
@@ -19,8 +19,8 @@
 
 <div align="center">
   
-| | | | | | |
-| [💁 About](#about-me) | [⚙️ What I Do](#what-i-work-on) | [🛠️ Tech Stack](#tech-stack) | [🎯 Projects](#featured-projects) | [🏆 Certifications](#certifications) | [⚡ Rapidfire](#⚡-rapidfire) |
+
+|    [💁 About](#about-me)    |    [⚙️ What I Do](#what-i-work-on)    |    [🛠️ Tech Stack](#tech-stack)    |    [🎯 Projects](#featured-projects)    |    [🏆 Certifications](#certifications)    | 
   
 </div>
 
