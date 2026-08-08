@@ -1,568 +1,179 @@
-# 👋 Hey, I'm Aduet Dabral
+# Hey, I'm Aduet Dabral! 👋
 
-### Data Engineer · Cloud Data · Analytics · SQL
-
-> **I build the systems behind the answers.**
->
-> From troubleshooting production databases at AWS to engineering cloud-native
-> pipelines and turning complex datasets into decision-ready analytics — I work
-> across the data lifecycle to make data **reliable, scalable, and useful**.
-
-<p align="center">
-  <a href="https://github.com/AduetDabral1">
-    <img src="https://img.shields.io/badge/%20-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/aduet-dabral/">
-    <img src="https://img.shields.io/badge/%20-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://aduetdabral1.github.io/aduet-portfolio/">
-    <img src="https://img.shields.io/badge/%20-Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="mailto:dabral.aduet@gmail.com">
-    <img src="https://img.shields.io/badge/%20-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="./resume.pdf">
-    <img src="https://img.shields.io/badge/%20-Resume-111827?style=for-the-badge&logo=readthedocs&logoColor=white" />
-  </a>
-  <a href="./cover_letter.pdf">
-    <img src="https://img.shields.io/badge/%20-Cover%20Letter-4B5563?style=for-the-badge&logo=readme&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="#-tech-stack">
-    <img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F-Tech%20Stack-111827?style=for-the-badge" />
-  </a>
-  <a href="#-featured-projects">
-    <img src="https://img.shields.io/badge/%F0%9F%93%8C-Projects-111827?style=for-the-badge" />
-  </a>
-  <a href="#-certifications">
-    <img src="https://img.shields.io/badge/%F0%9F%8F%86-Certifications-111827?style=for-the-badge" />
-  </a>
-</p>
+*Turning raw data into stories that drive decisions.*
 
 ---
 
-# 🧠 About Me
+## 🔗 Quick Links
 
-I'm **Aduet Dabral**, a Data Professional based in **Dehradun, India**, working
-across the data lifecycle — from production database troubleshooting and SQL
-optimization to cloud data engineering, data modeling, and business intelligence.
-
-My journey started in **statutory audit at Deloitte**, where I worked with
-financial datasets ranging from thousands to **30M+ records** and automated
-validation workflows using SQL, Spark, and Excel.
-
-That experience taught me something that still shapes how I approach data:
-
-> **The hardest part of analytics isn't always the analysis. It's trusting the
-> pipeline behind it.**
-
-That curiosity led me to **AWS**, where I worked as a Cloud Support Associate
-focused on databases. I resolved **150+ production Amazon RDS and Aurora support
-cases**, diagnosed performance bottlenecks, recommended workload optimizations,
-and collaborated with engineering teams on complex database issues.
-
-I maintained a **4.95/5 customer satisfaction rating** while owning database
-support cases end-to-end and authored internal troubleshooting playbooks for
-SQL Server, Performance Insights, and Enhanced Monitoring.
-
-Now I'm building the systems I used to troubleshoot:
-
-**Cloud ETL/ELT pipelines · Data Platforms · Data Warehouses · Dimensional Models
-· Analytics-ready Datasets · Business Intelligence**
-
-My goal is simple:
-
-> **Build data systems people can trust — and turn that data into answers people
-> can act on.**
+[![Gmail](https://img.shields.io/badge/Email-dabral.aduet%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dabral.aduet@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AduetDabral1-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AduetDabral1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aduet--dabral-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aduet-dabral)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aduet--portfolio-8B5CF6?style=flat-square&logo=world&logoColor=white)](https://aduetdabral1.github.io/aduet-portfolio/)
+[![Resume](https://img.shields.io/badge/Resume-PDF-D91E63?style=flat-square&logo=adobe&logoColor=white)](./resume.pdf)
+[![Cover Letter](https://img.shields.io/badge/Cover%20Letter-PDF-6366F1?style=flat-square&logo=adobe&logoColor=white)](./cover_letter.pdf)
 
 ---
 
-# 🚀 What I Work On
+## 📍 Jump To
 
-- ⚡ **Data Engineering** — Building scalable end-to-end pipelines for ingestion, transformation, data quality, modeling, and analytics-ready outputs.
-- ☁️ **Cloud Analytics** — Designing cloud-native data solutions across AWS, Azure, and Google Cloud.
-- 🏗️ **Data Architecture** — Working with ETL/ELT, Medallion Architecture, Delta Lake, dimensional modeling, data warehousing, incremental loading, and SCD Type 2.
-- 🗄️ **SQL & Databases** — Diagnosing performance bottlenecks, optimizing SQL workloads, and working with production database systems.
-- 📊 **Analytics & BI** — Building interactive Power BI dashboards, dimensional models, DAX measures, and reporting solutions.
-- 🤖 **Machine Learning** — Applying machine learning concepts to predictive analytics, feature engineering, preprocessing, and model evaluation.
+[About](#about-me) • [What I Do](#what-i-work-on) • [Tech Stack](#tech-stack) • [Projects](#featured-projects) • [Certs](#certifications) • [Rapidfire](#⚡-rapidfire)
 
 ---
 
-# 🛠️ Tech Stack
+## 🚀 About Me
 
-## Languages & Data
+I'm a **Data Professional** living across the entire data lifecycle — from tuning low-level SQL queries in production databases to building scalable cloud pipelines and crafting interactive dashboards that business leaders actually rely on.
 
-<p align="center">
+At **AWS**, I worked on production database systems as a Cloud Support Associate, diagnosing performance bottlenecks across **150+ production database support cases** while achieving **~30% query performance improvements** through SQL tuning and intelligent indexing strategies. Before that, I automated audit workflows at **Deloitte**, validating financial datasets scaling past **30 million records** and reducing turnaround times by **20%**.
 
-<a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" width="52" height="52"/><br>
-<sub><b>Python</b></sub>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+My interests span **Data Engineering, Cloud Analytics, Business Intelligence, and Modern Data Platforms**, with a focus on designing reliable pipelines, scalable architectures, and meaningful analytics that drive real business value rather than vanity metrics.
 
-<a href="#">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="52"/><br>
-<sub><b>SQL</b></sub>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.postgresql.org/">
-<img src="https://skillicons.dev/icons?i=postgres" width="52" height="52"/><br>
-<sub><b>PostgreSQL</b></sub>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.mysql.com/">
-<img src="https://skillicons.dev/icons?i=mysql" width="52" height="52"/><br>
-<sub><b>MySQL</b></sub>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.microsoft.com/en-us/sql-server">
-<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="52" height="52"/><br>
-<sub><b>SQL Server</b></sub>
-</a>
-
-</p>
-
-## Data Processing & Engineering
-
-<p align="center">
-
-<a href="https://spark.apache.org/">
-<img src="https://skillicons.dev/icons?i=spark" width="52" height="52"/><br>
-<sub><b>PySpark</b></sub>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://kafka.apache.org/">
-<img src="https://skillicons.dev/icons?i=kafka" width="52" height="52"/><br>
-<sub><b>Kafka</b></sub>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.databricks.com/">
-<img src="https://cdn.simpleicons.org/databricks/FF3621" width="52" height="52"/><br>
-<sub><b>Databricks</b></sub>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://airflow.apache.org/">
-<img src="https://skillicons.dev/icons?i=airflow" width="52" height="52"/><br>
-<sub><b>Airflow</b></sub>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.mage.ai/">
-<img src="https://img.shields.io/badge/M-Mage%20AI-111827?style=for-the-badge" height="52"/><br>
-<sub><b>Mage AI</b></sub>
-</a>
-
-</p>
-
-## Cloud
-
-<p align="center">
-
-<a href="https://aws.amazon.com/">
-<img src="https://skillicons.dev/icons?i=aws" width="52" height="52"/><br>
-<sub><b>AWS</b></sub>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://azure.microsoft.com/">
-<img src="https://skillicons.dev/icons?i=azure" width="52" height="52"/><br>
-<sub><b>Azure</b></sub>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://cloud.google.com/">
-<img src="https://skillicons.dev/icons?i=gcp" width="52" height="52"/><br>
-<sub><b>Google Cloud</b></sub>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://aws.amazon.com/s3/">
-<img src="https://cdn.simpleicons.org/amazons3/569A31" width="52" height="52"/><br>
-<sub><b>Amazon S3</b></sub>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://aws.amazon.com/lambda/">
-<img src="https://cdn.simpleicons.org/awslambda/FF9900" width="52" height="52"/><br>
-<sub><b>AWS Lambda</b></sub>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://aws.amazon.com/ec2/">
-<img src="https://cdn.simpleicons.org/amazonec2/FF9900" width="52" height="52"/><br>
-<sub><b>EC2</b></sub>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://aws.amazon.com/rds/">
-<img src="https://cdn.simpleicons.org/amazonrds/527FFF" width="52" height="52"/><br>
-<sub><b>Amazon RDS</b></sub>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://aws.amazon.com/glue/">
-<img src="https://img.shields.io/badge/GL-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="52"/><br>
-<sub><b>AWS Glue</b></sub>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://aws.amazon.com/athena/">
-<img src="https://img.shields.io/badge/AT-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="52"/><br>
-<sub><b>Amazon Athena</b></sub>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://aws.amazon.com/iam/">
-<img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="52"/><br>
-<sub><b>AWS IAM</b></sub>
-</a>
-
-</p>
-
-## Analytics & BI
-
-<p align="center">
-
-<a href="https://powerbi.microsoft.com/">
-<img src="https://skillicons.dev/icons?i=powerbi" width="52" height="52"/><br>
-<sub><b>Power BI</b></sub>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.microsoft.com/microsoft-365/excel">
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="52" height="52"/><br>
-<sub><b>Excel</b></sub>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/DAX-111827?style=for-the-badge" height="52"/><br>
-<sub><b>DAX</b></sub>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/PQ-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="52"/><br>
-<sub><b>Power Query</b></sub>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://cloud.google.com/bigquery">
-<img src="https://skillicons.dev/icons?i=bigquery" width="52" height="52"/><br>
-<sub><b>BigQuery</b></sub>
-</a>
-
-</p>
-
-## Python Data Stack & Tools
-
-<p align="center">
-
-<a href="https://pandas.pydata.org/">
-<img src="https://cdn.simpleicons.org/pandas/150458" width="52" height="52"/><br>
-<sub><b>Pandas</b></sub>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://numpy.org/">
-<img src="https://cdn.simpleicons.org/numpy/4DABCF" width="52" height="52"/><br>
-<sub><b>NumPy</b></sub>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.docker.com/">
-<img src="https://skillicons.dev/icons?i=docker" width="52" height="52"/><br>
-<sub><b>Docker</b></sub>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" width="52" height="52"/><br>
-<sub><b>Git</b></sub>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://fastapi.tiangolo.com/">
-<img src="https://skillicons.dev/icons?i=fastapi" width="52" height="52"/><br>
-<sub><b>FastAPI</b></sub>
-</a>
-
-</p>
+**Whether you need:** A Data Engineer, Data Analyst, SQL Developer, or BI/Visualization Specialist — **I bring a hybrid background that bridges technical infrastructure with commercial insights.**
 
 ---
 
-# 📌 Featured Projects
+## 🧠 What I Work On
 
-> **I prefer projects that resemble real data problems — not just technology demos.**
+⚡ **Building Scalable Data Engineering Pipelines** — End-to-end ETL/ELT architecture using PySpark, Apache Airflow, Databricks, and modern cloud platforms for reliable, fault-tolerant data flows.
 
----
+📊 **Developing Interactive Power BI Dashboards & KPI Reporting** — Transforming raw data into decision-ready visual stories using DAX, Power Query, and dimensional modeling that executives trust.
 
-## 🏥 Azure Healthcare Revenue Cycle Data Platform
+☁️ **Designing Cloud-Native Analytics Solutions on AWS, Azure & GCP** — Architecting cost-effective, scalable data platforms leveraging managed services like Glue, Athena, BigQuery, and Databricks.
 
-**Production-inspired cloud data engineering platform for healthcare revenue
-cycle analytics.**
+🏗️ **Data Modeling, Warehousing & ETL/ELT Architecture** — Designing star schemas, dimensional models, and lakehouse patterns that enable consistent analytics and reliable downstream consumption.
 
-Built a metadata-driven Azure Lakehouse using **Medallion Architecture** to
-consolidate data from multiple operational sources into a centralized Delta
-Lake.
+🚀 **Optimizing SQL Queries & Database Performance** — Deep-diving into execution plans, indexing strategies, and workload optimization to extract performance and cost efficiency.
 
-### What it does
-
-- Metadata-driven ingestion using **Azure Data Factory**
-- Reusable **PySpark** transformation pipelines
-- Full and incremental loading
-- **SCD Type 2** implementation
-- Common Data Model standardization
-- Dimensional data modeling
-- Enterprise-ready healthcare analytics foundation
-
-**Stack**
-
-`Azure Data Factory` `ADLS Gen2` `Databricks` `Delta Lake` `PySpark` `SQL`
-
-<a href="https://github.com/AduetDabral1/End-to-End-Data-Pipelines/tree/main/Healthcare_Revenue_Cycle_Management_Azure">
-View Project ↗
-</a>
+🔍 **Exploratory Data Analysis, BI & Data-Driven Solutions** — Statistical analysis, pattern discovery, and predictive modeling to uncover business insights and support strategic decisions.
 
 ---
 
-## ▶️ YouTube Data Lake & Analytics Pipeline
-
-**A serverless AWS data lake built to process 40K+ daily YouTube trending
-records.**
-
-Designed using **Medallion Architecture**, with automated ingestion,
-transformation, partitioning, and analytical querying.
-
-### What it does
-
-- Automated JSON ingestion with **AWS Lambda**
-- Scalable ETL using **AWS Glue**
-- Data lake storage using **Amazon S3**
-- PySpark-based transformation
-- Hive-style partitioning
-- Parquet conversion
-- Analytical querying using **Amazon Athena**
-- Partition pruning for faster queries
-- Reduced storage costs by approximately **50%**
-
-**Stack**
-
-`AWS S3` `Lambda` `Glue` `Athena` `PySpark` `SQL`
-
----
-
-## 🚕 Uber Modern ETL & Analytics Pipeline
-
-**End-to-end modern data pipeline transforming NYC taxi trip data into
-analytics-ready datasets.**
-
-The pipeline focuses on ingestion, transformation, warehouse loading, and
-business-facing visualization.
-
-**Stack**
-
-`Google Cloud` `Mage AI` `Python` `BigQuery` `Google Data Studio`
-
----
-
-## 📊 Supply Chain Analytics Dashboard
-
-**An interactive Power BI solution for understanding supply chain performance
-from procurement through customer fulfillment.**
-
-Built a dimensional model and transformed operational data into centralized
-business reporting.
-
-### Key analytics
-
-- Revenue
-- Profit margin
-- Inventory turnover
-- Lead time
-- Shipment performance
-- Supplier efficiency
-
-**Stack**
-
-`Power BI` `DAX` `Power Query` `Python` `SQL`
-
----
-
-## 🔎 Google Trends Dashboard
-
-**Interactive Power BI dashboard for monitoring and analyzing global keyword
-search trends.**
-
-Designed to transform search-interest data into an intuitive visual analytics
-experience.
-
-**Stack**
-
-`Power BI` `Power Query` `Excel`
-
----
-
-## 🏏 IPL 2026 Live Dashboard
-
-**Real-time Power BI analytics solution for the Indian Premier League 2026.**
-
-Combines live API feeds with historical datasets to deliver tournament-level
-analytics and interactive insights.
-
-**Stack**
-
-`Power BI` `RapidAPI` `Cricbuzz` `Excel` `DAX`
-
----
-
-# 🏆 Certifications
-
-<p align="center">
-
-<a href="https://www.credly.com/earner/earned/badge/b9ee53a3-532a-41bf-ab84-363bb7c91674">
-<img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</a>
-
-<a href="https://www.credly.com/badges/2e585a3d-a72a-455e-aa8f-00e0e7b7c737">
-<img src="https://img.shields.io/badge/AWS-Machine%20Learning%20Engineer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</a>
-
-<a href="https://www.credly.com/earner/earned/badge/6f4524bb-a625-42a5-a18a-202fb835721d">
-<img src="https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</a>
-
-</p>
+## 🛠️ Tech Stack
 
 <table>
 <tr>
-<td width="33%" valign="top">
-
-### 🟧 AWS Certified Solutions Architect – Associate
-
-**Amazon Web Services**
-
-`Issued: [Month Year]`
-
-Designing secure, resilient, and scalable solutions on AWS.
-
-<br>
-
-<a href="https://www.credly.com/earner/earned/badge/b9ee53a3-532a-41bf-ab84-363bb7c91674">
-🔗 Verify Credential
-</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🟧 AWS Certified Machine Learning Engineer – Associate
-
-**Amazon Web Services**
-
-`Issued: [Month Year]`
-
-Implementing and operationalizing machine learning workloads using AWS.
-
-<br>
-
-<a href="https://www.credly.com/badges/2e585a3d-a72a-455e-aa8f-00e0e7b7c737">
-🔗 Verify Credential
-</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🟧 AWS Certified AI Practitioner
-
-**Amazon Web Services**
-
-`Issued: [Month Year]`
-
-Foundational knowledge of AI, ML, generative AI, and responsible AI.
-
-<br>
-
-<a href="https://www.credly.com/earner/earned/badge/6f4524bb-a625-42a5-a18a-202fb835721d">
-🔗 Verify Credential
-</a>
-
-</td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python"/><br><b>Python</b></td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="SQL"/><br><b>SQL</b></td>
+<td align="center" width="120">🔥<br><b>PySpark</b></td>
+<td align="center" width="120">🔥<br><b>Spark</b></td>
+<td align="center" width="120">🚀<br><b>Kafka</b></td>
+<td align="center" width="120"><img src="https://www.databricks.com/en/favicon.ico" width="50" height="50" alt="Databricks"/><br><b>Databricks</b></td>
+<td align="center" width="120">✈️<br><b>Airflow</b></td>
+<td align="center" width="120">✨<br><b>Mage AI</b></td>
 </tr>
-
 <tr>
-
-<td width="33%" valign="top">
-
-### 🔵 IBM AI Analyst
-
-**IBM**
-
-`Issued: [Month Year]`
-
-Applied knowledge across data, analytics, and AI-oriented problem solving.
-
-<br>
-
-<a href="https://drive.google.com/file/d/12hykF4Uzl9CACydrjdjXE4TGeG9ukSU4/view?usp=sharing">
-🔗 Verify Credential
-</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🟪 Data Science & AI Analyst
-
-**IBM**
-
-`Issued: [Month Year]`
-
-Data science and AI concepts applied to analytical problem solving.
-
-<br>
-
-<a href="#">
-🔗 Credential
-</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🏅 Additional Certification
-
-**[Issuing Organization]**
-
-`Issued: [Month Year]`
-
-[Add what this certification signifies.]
-
-<br>
-
-<a href="#">
-🔗 Verify Credential
-</a>
-
-</td>
-
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS"/><br><b>AWS</b></td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="50" height="50" alt="Azure"/><br><b>Azure</b></td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="GCP"/><br><b>GCP</b></td>
+<td align="center" width="120">📊<br><b>Power BI</b></td>
+<td align="center" width="120">📉<br><b>DAX</b></td>
+<td align="center" width="120">🔄<br><b>Power Query</b></td>
+<td align="center" width="120">📈<br><b>BigQuery</b></td>
+<td align="center" width="120">📑<br><b>Excel</b></td>
+</tr>
+<tr>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/><br><b>Docker</b></td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git"/><br><b>Git</b></td>
+<td align="center" width="120">🔌<br><b>REST APIs</b></td>
+<td align="center" width="120">⚡<br><b>FastAPI</b></td>
+<td align="center" width="120">🐼<br><b>Pandas</b></td>
+<td align="center" width="120">🔢<br><b>NumPy</b></td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/><br><b>MySQL</b></td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" alt="SQL Server"/><br><b>SQL Server</b></td>
 </tr>
 </table>
 
 ---
 
-# ⚡ Rapidfire
+## 📌 Featured Projects
 
-- 🔭 **Currently building:** Cloud-native data engineering projects
-- 🌱 **Currently learning:** Distributed data systems and advanced machine learning
-- 💬 **Ask me about:** SQL, PySpark, AWS, Azure, Data Engineering, and Power BI
-- 🎯 **Interested in:** Scalable analytics platforms and modern data architectures
-- 📸 **Fun fact:** I enjoy themed photography and landscape photography
+### 📊 IPL 2026 Live Dashboard
+**A real-time Power BI analytics solution** for the Indian Premier League 2026, integrating live API feeds with historical datasets to deliver comprehensive tournament insights.
+
+🛠️ **Tech Stack:** Power BI • DAX • Power Query • RapidAPI (Cricbuzz) • Excel
+
+🔗 **[View on GitHub](https://github.com/AduetDabral1/PowerBI/tree/main/IPL%202026%20Dashboard)**
+
+---
+
+### 🏥 Azure Healthcare Revenue Cycle Management Platform
+**Production-inspired Azure Data Engineering platform** that ingests healthcare operational data into a Delta Lakehouse using metadata-driven pipelines, Medallion Architecture, and Slowly Changing Dimensions (SCD Type 2).
+
+🛠️ **Tech Stack:** Azure Data Factory • Databricks • PySpark • Delta Lake • SQL • REST API • Data Warehousing
+
+🔗 **[View on GitHub](https://github.com/AduetDabral1/End-to-End-Data-Pipelines/tree/main/Healthcare_Revenue_Cycle_Management_Azure)**
+
+---
+
+### 🎬 YouTube Data Lake & Analytics Pipeline
+**End-to-end modern data pipeline** transforming NYC taxi trip data into analytics-ready datasets using serverless AWS services. Hive-style partitioning and Parquet conversion reduced storage costs by **50%** while enabling subsecond analytical queries.
+
+🛠️ **Tech Stack:** AWS (S3, Lambda, Glue, Athena) • PySpark • SQL • Medallion Architecture
+
+🔗 **Coming Soon**
+
+---
+
+### 📈 Real-Time Stock Market Data Pipeline
+**Kafka-fed streaming pipeline on AWS** turning raw supply chain data into a dimensional model with Power Query and DAX measures tracking revenue, inventory turnover, lead time, and shipment performance.
+
+🛠️ **Tech Stack:** Apache Kafka • AWS (EC2, S3, Glue, Athena) • Python • Power BI • DAX
+
+🔗 **[View on GitHub](https://github.com/AduetDabral1/End-to-End-Data-Pipelines/tree/main/Real_Time_Stock_Data_Analysis_DE_Pipeline)**
+
+---
+
+### 📦 Supply Chain Analytics Dashboard
+**Interactive Power BI dashboard** providing end-to-end visibility across procurement, inventory, logistics, and customer fulfillment. Built with clean dimensional data models and DAX measures for operational excellence.
+
+🛠️ **Tech Stack:** Power BI • Power Query • DAX • Data Modeling • Python • SQL
+
+🔗 **[View on GitHub](https://github.com/AduetDabral1/PowerBI/tree/main/Supply%20Chain%20Dashboard)**
+
+---
+
+## 🏆 Certifications
+
+| Badge | Certification | Issuer | Issued | What It Signifies |
+|:---:|:---|:---|:---|:---|
+| 🏆 | **AWS Certified Solutions Architect - Associate** | Amazon Web Services | [Issued Date] | Cloud infrastructure design, scalable architectures, and AWS services expertise |
+| 🤖 | **AWS Certified Machine Learning Engineer - Associate** | Amazon Web Services | [Issued Date] | ML pipelines, model training, deployment, and AWS ML services proficiency |
+| ⚡ | **AWS Certified AI Practitioner** | Amazon Web Services | [Issued Date] | AI/ML fundamentals, generative AI, and responsible AI practices |
+| 📊 | **Data Science and AI Analyst** | IBM | [Issued Date] | Data science methodology, analysis, and AI applications |
+
+---
+
+## ⚡ Rapidfire
+
+🔭 **Currently building** cloud-native data engineering projects
+
+🌱 **Learning** distributed data systems and advanced machine learning
+
+💬 **Ask me about** SQL, PySpark, AWS, Azure, Data Engineering, and Power BI
+
+🎯 **Interested in** scalable analytics platforms and modern data architectures
+
+📸 **Fun fact:** I enjoy themed photography and landscape photography
+
+🚀 **Let's build something impactful together!**
+
+---
+
+## 📬 Let's Connect
+
+I love solving messy data problems, untangling performance bottlenecks, and turning raw numbers into clear answers.
+
+If you're building a team or looking for someone who can hit the ground running across engineering, SQL development, or analytics, **I'd love to connect!**
+
+**Feel free to reach out directly via [dabral.aduet@gmail.com](mailto:dabral.aduet@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/aduet-dabral).**
+
+---
+
+<div align="center">
+  
+  ⭐ If you found value here, consider giving this repo a star!
+  
+  **Made with ❤️ by Aduet Dabral**
+  
+</div>
