@@ -20,7 +20,9 @@
 <div align="center">
   
 
-|    [![About](https://img.shields.io/badge/-About-0052CC?style=for-the-badge&logo=about.me&logoColor=white)](#about-me)    |    [![What I Do](https://img.shields.io/badge/-What_I_Do-2E8B57?style=for-the-badge&logo=codeforces&logoColor=white)](#what-i-work-on)    |    [![Tech Stack](https://img.shields.io/badge/-Tech_Stack-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#tech-stack)    |    [![Projects](https://img.shields.io/badge/-Projects-6f42c1?style=for-the-badge&logo=git&logoColor=white)](#featured-projects)    |    [![Certifications](https://img.shields.io/badge/-Projects-6f42c1?style=for-the-badge&logo=git&logoColor=white)](#certifications)    | 
+| About | What I Do | Tech Stack | Projects | Certifications |
+| :---: | :---: | :---: | :---: | :---: |
+| [![About](https://img.shields.io/badge/-About-0052CC?style=for-the-badge&logo=about.me&logoColor=white)](#about-me) | [![What I Do](https://img.shields.io/badge/-What_I_Do-2E8B57?style=for-the-badge&logo=codeforces&logoColor=white)](#what-i-work-on) | [![Tech Stack](https://img.shields.io/badge/-Tech_Stack-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#tech-stack) | [![Projects](https://img.shields.io/badge/-Projects-6f42c1?style=for-the-badge&logo=git&logoColor=white)](#featured-projects) | [![Certifications](https://img.shields.io/badge/-Certifications-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](#certifications) |
   
 </div>
 
