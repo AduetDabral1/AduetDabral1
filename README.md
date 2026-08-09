@@ -398,7 +398,7 @@ AI/ML fundamentals, generative AI, and responsible AI practices.
 Data science methodology, analysis, and AI application expertise.
 
 </td>
-<td width="33%">
+<td align="center" width="33%">
 <img src="https://imgs.search.brave.com/pYWxzvxjz-sZhWAJlOJVrh3p6pTkivp6ycJCysRsJVo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3JlZGx5LmNv/bS9zaXplLzIwMHgy/MDAvaW1hZ2VzLzBi/M2RhMjBkLTgzYzEt/NGZmNi1iZGU4LTk2/MDA3NWJiNDcxZi9J/Qk1fQ2VydF9vcmcu/cG5n" width="100" height="100" alt="Data Science 101"/>
 
 ### Data Science 101
@@ -413,7 +413,7 @@ Data science methodology, analysis, and AI application expertise.
  
 </td>
 
-<td width="33%">
+<td align="center" width="33%">
 <img src="https://imgs.search.brave.com/pYWxzvxjz-sZhWAJlOJVrh3p6pTkivp6ycJCysRsJVo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3JlZGx5LmNv/bS9zaXplLzIwMHgy/MDAvaW1hZ2VzLzBi/M2RhMjBkLTgzYzEt/NGZmNi1iZGU4LTk2/MDA3NWJiNDcxZi9J/Qk1fQ2VydF9vcmcu/cG5n" width="100" height="100" alt="Predictive Analytics Mastery"/>
 
 ### Predictive Analytics Mastery Exam
