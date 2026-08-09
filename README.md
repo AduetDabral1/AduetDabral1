@@ -393,13 +393,40 @@ AI/ML fundamentals, generative AI, and responsible AI practices.
 
 **Issued:** November, 2022
 
-<a href="https://drive.google.com/file/d/12hykF4Uzl9CACydrjdjXE4TGeG9ukSU4/view">→ View Certification</a>
+<a href="https://drive.google.com/file/d/1z33CXp0UvIq3PM8drq2EYMj4MVHDnDY7/view?usp=sharing">→ View Certification</a>
 
 Data science methodology, analysis, and AI application expertise.
 
 </td>
-<td width="33%"></td>
-<td width="33%"></td>
+<td width="33%">
+<img src="https://imgs.search.brave.com/pYWxzvxjz-sZhWAJlOJVrh3p6pTkivp6ycJCysRsJVo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3JlZGx5LmNv/bS9zaXplLzIwMHgy/MDAvaW1hZ2VzLzBi/M2RhMjBkLTgzYzEt/NGZmNi1iZGU4LTk2/MDA3NWJiNDcxZi9J/Qk1fQ2VydF9vcmcu/cG5n" width="100" height="100" alt="Data Science 101"/>
+
+### Data Science 101
+
+**Issuer:** IBM Developer Skills Network
+
+**Issued:** November, 2022
+
+<a href="https://drive.google.com/file/d/1r3cfX5dbWeUoc1EK3g_ETmVBTgntXlt4/view?usp=sharing">→ View Certification</a>
+
+Data science methodology, analysis, and AI application expertise.
+ 
+</td>
+
+<td width="33%">
+<img src="https://imgs.search.brave.com/pYWxzvxjz-sZhWAJlOJVrh3p6pTkivp6ycJCysRsJVo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3JlZGx5LmNv/bS9zaXplLzIwMHgy/MDAvaW1hZ2VzLzBi/M2RhMjBkLTgzYzEt/NGZmNi1iZGU4LTk2/MDA3NWJiNDcxZi9J/Qk1fQ2VydF9vcmcu/cG5n" width="100" height="100" alt="Predictive Analytics Mastery"/>
+
+### Predictive Analytics Mastery Exam
+
+**Issuer:** IBM Developer Skills Network
+
+**Issued:** December, 2022
+
+<a href="https://drive.google.com/file/d/1BV58DONrC_hyBKaXdm9SdJUFR7J-suGJ/view?usp=sharing">→ View Certification</a>
+
+Data science methodology, analysis, and AI application expertise.
+ 
+</td>
 </tr>
 </table>
 
