@@ -335,39 +335,45 @@ Power BI dashboard designed to **monitor, visualize, and analyze global keyword 
 <tr>
 <td align="center" width="33%">
 
-<img src="https://imgs.search.brave.com/qTZF8NFEy8bsoziE4VTe7w1RZDZ3BETFqWHQn97hpOM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3JlZGx5LmNv/bS9pbWFnZXMvMGUy/ODRjM2YtNTE2NC00/YjIxLTg2NjAtMGQ4/NDczNzk0MWJjL2lt/YWdlLnBuZw" width="75" height="75" alt="AWS Solutions Architect - Associate"/>
+<img src="https://imgs.search.brave.com/qTZF8NFEy8bsoziE4VTe7w1RZDZ3BETFqWHQn97hpOM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3JlZGx5LmNv/bS9pbWFnZXMvMGUy/ODRjM2YtNTE2NC00/YjIxLTg2NjAtMGQ4/NDczNzk0MWJjL2lt/YWdlLnBuZw" width="100" height="100" alt="AWS Solutions Architect - Associate"/>
 
-#### AWS Solutions Architect - Associate
+### AWS Solutions Architect - Associate
 
 **Issuer:** Amazon Web Services
 
 **Issued:** November, 2024
+
+<a href="https://www.credly.com/badges/b9ee53a3-532a-41bf-ab84-363bb7c91674/public_url">→ View Certification</a>
 
 Cloud infrastructure design, scalable architectures, and AWS services expertise.
 
 </td>
 <td align="center" width="33%">
 
-<img src="https://imgs.search.brave.com/foeenpRw1LeDpc5S7SY2KzJy4FzN85mU8BEDEXH54RU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3JlZGx5LmNv/bS9pbWFnZXMvMWE2/MzRiNGUtM2Q2Yi00/YTc0LWIxMTgtYzBk/Y2I0MjllOGQyL2lt/YWdlLnBuZw" width="75" height="75" alt="AWS Certified Machine Learning Engineer – Associate"/>
+<img src="https://imgs.search.brave.com/foeenpRw1LeDpc5S7SY2KzJy4FzN85mU8BEDEXH54RU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3JlZGx5LmNv/bS9pbWFnZXMvMWE2/MzRiNGUtM2Q2Yi00/YTc0LWIxMTgtYzBk/Y2I0MjllOGQyL2lt/YWdlLnBuZw" width="100" height="100" alt="AWS Certified Machine Learning Engineer – Associate"/>
 
-#### AWS ML Engineer - Associate
+### AWS ML Engineer - Associate
 
 **Issuer:** Amazon Web Services
 
 **Issued:** August, 2025
+
+<a href="https://www.credly.com/badges/2e585a3d-a72a-455e-aa8f-00e0e7b7c737">→ View Certification</a>
 
 ML pipelines, model training, deployment, and AWS ML services proficiency.
 
 </td>
 <td align="center" width="33%">
 
-"<img src="https://imgs.search.brave.com/qTZF8NFEy8bsoziE4VTe7w1RZDZ3BETFqWHQn97hpOM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3JlZGx5LmNv/bS9pbWFnZXMvMGUy/ODRjM2YtNTE2NC00/YjIxLTg2NjAtMGQ4/NDczNzk0MWJjL2lt/YWdlLnBuZw" width="75" height="75" alt="AWS Certified AI Practitioner"/>
+"<img src="https://imgs.search.brave.com/qTZF8NFEy8bsoziE4VTe7w1RZDZ3BETFqWHQn97hpOM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3JlZGx5LmNv/bS9pbWFnZXMvMGUy/ODRjM2YtNTE2NC00/YjIxLTg2NjAtMGQ4/NDczNzk0MWJjL2lt/YWdlLnBuZw" width="100" height="100" alt="AWS Certified AI Practitioner"/>
 
-#### AWS Certified AI Practitioner
+### AWS Certified AI Practitioner
 
 **Issuer:** Amazon Web Services
 
 **Issued:** February, 2025
+
+<a href="https://www.credly.com/badges/6f4524bb-a625-42a5-a18a-202fb835721d/public_url">→ View Certification</a>
 
 AI/ML fundamentals, generative AI, and responsible AI practices.
 
@@ -379,13 +385,15 @@ AI/ML fundamentals, generative AI, and responsible AI practices.
 <tr>
 <td align="center" width="33%">
 
-<img src="https://imgs.search.brave.com/qTZF8NFEy8bsoziE4VTe7w1RZDZ3BETFqWHQn97hpOM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3JlZGx5LmNv/bS9pbWFnZXMvMGUy/ODRjM2YtNTE2NC00/YjIxLTg2NjAtMGQ4/NDczNzk0MWJjL2lt/YWdlLnBuZw" width="75" height="75" alt="IBM AI Analyst"/>
+<img src="https://imgs.search.brave.com/pYWxzvxjz-sZhWAJlOJVrh3p6pTkivp6ycJCysRsJVo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3JlZGx5LmNv/bS9zaXplLzIwMHgy/MDAvaW1hZ2VzLzBi/M2RhMjBkLTgzYzEt/NGZmNi1iZGU4LTk2/MDA3NWJiNDcxZi9J/Qk1fQ2VydF9vcmcu/cG5n" width="100" height="100" alt="IBM AI Analyst"/>
 
-#### Artificial Intelligence Analyst
+### Artificial Intelligence Analyst
 
 **Issuer:** IBM Developer Skills Network
 
 **Issued:** November, 2022
+
+<a href="https://drive.google.com/file/d/12hykF4Uzl9CACydrjdjXE4TGeG9ukSU4/view">→ View Certification</a>
 
 Data science methodology, analysis, and AI application expertise.
 
