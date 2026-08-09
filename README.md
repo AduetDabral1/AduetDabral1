@@ -141,91 +141,36 @@ My interests span **Data Engineering, Cloud Analytics, Business Intelligence, an
 
 ## 📌 Featured Projects
 
-<table>
-<tr>
-<td width="48%">
+<p align="center">
+  <a href="https://github.com/AduetDabral1">
+    <img src="./assets/projects/ipl-2026.svg" width="48%" alt="IPL 2026 Live Dashboard">
+  </a>
+  &nbsp;
+  <a href="https://github.com/AduetDabral1/End-to-End-Data-Pipelines/tree/main/Healthcare_Revenue_Cycle_Management_Azure">
+    <img src="./assets/projects/healthcare-revenue-cycle.svg" width="48%" alt="Healthcare Revenue Cycle Platform">
+  </a>
+</p>
 
-#### 📊 IPL 2026 Live Dashboard
+<p align="center">
+  <a href="https://github.com/AduetDabral1">
+    <img src="./assets/projects/youtube-data-lake.svg" width="48%" alt="YouTube Data Lake & Analytics Pipeline">
+  </a>
+  &nbsp;
+  <a href="https://github.com/AduetDabral1">
+    <img src="./assets/projects/real-time-stock-market.svg" width="48%" alt="Real-Time Stock Market Pipeline">
+  </a>
+</p>
 
-![IPL Dashboard](https://img.shields.io/badge/-Power%20BI%20%7C%20Real--Time%20Analytics-2E75B6?style=flat-square)
+<p align="center">
+  <a href="https://github.com/AduetDabral1">
+    <img src="./assets/projects/supply-chain.svg" width="48%" alt="Supply Chain Analytics Dashboard">
+  </a>
+  &nbsp;
+  <a href="https://github.com/AduetDabral1">
+    <img src="./assets/projects/google-trends.svg" width="48%" alt="Google Trends Dashboard">
+  </a>
+</p>
 
-Real-time Power BI analytics for Indian Premier League 2026 with live API feeds and tournament insights.
-
-**Tech:** Power BI • DAX • Power Query • RapidAPI
-
-[→ View on GitHub](https://github.com/AduetDabral1/PowerBI/tree/main/IPL%202026%20Dashboard)
-
-</td>
-<td width="4%"></td>
-<td width="48%">
-
-#### 🏥 Healthcare Revenue Cycle Platform
-
-![Healthcare](https://img.shields.io/badge/-Azure%20%7C%20Data%20Engineering-0078D4?style=flat-square)
-
-Production Azure Lakehouse ingesting multi-source healthcare data with Medallion architecture and SCD Type 2.
-
-**Tech:** Azure Data Factory • Databricks • PySpark • Delta Lake • SQL
-
-[→ View on GitHub](https://github.com/AduetDabral1/End-to-End-Data-Pipelines/tree/main/Healthcare_Revenue_Cycle_Management_Azure)
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="48%">
-
-#### 🎬 YouTube Data Lake & Analytics
-
-![YouTube Pipeline](https://img.shields.io/badge/-AWS%20%7C%20Serverless-FF9900?style=flat-square)
-
-Serverless AWS data lake automating ingestion of 40K+ daily records. 50% storage reduction with subsecond queries.
-
-**Tech:** AWS (S3, Lambda, Glue, Athena) • PySpark • Medallion Architecture
-
-[→ Coming Soon](#)
-
-</td>
-<td width="4%"></td>
-<td width="48%">
-
-#### 📈 Real-Time Stock Market Pipeline
-
-![Stock Pipeline](https://img.shields.io/badge/-Kafka%20%7C%20Streaming-000000?style=flat-square)
-
-Kafka-fed streaming pipeline transforming supply chain data into dimensional models with Power BI tracking.
-
-**Tech:** Apache Kafka • AWS (EC2, S3, Glue, Athena) • Power BI • DAX
-
-[→ View on GitHub](https://github.com/AduetDabral1/End-to-End-Data-Pipelines/tree/main/Real_Time_Stock_Data_Analysis_DE_Pipeline)
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="48%">
-
-#### 📦 Supply Chain Analytics Dashboard
-
-![Supply Chain](https://img.shields.io/badge/-Power%20BI%20%7C%20BI%20Solution-F2C811?style=flat-square)
-
-Interactive Power BI dashboard for procurement, inventory, logistics visibility with dimensional data models.
-
-**Tech:** Power BI • Power Query • DAX • Data Modeling • Python • SQL
-
-[→ View on GitHub](https://github.com/AduetDabral1/PowerBI/tree/main/Supply%20Chain%20Dashboard)
-
-</td>
-<td width="4%"></td>
-<td width="48%">
-
-</td>
-</tr>
-</table>
 
 ---
 
