@@ -17,29 +17,29 @@
 
 ## 🚀 About Me
 
-I'm a **Data Professional** living across the entire data lifecycle — from tuning low-level SQL queries in production databases to building scalable cloud pipelines and crafting interactive dashboards that business leaders actually rely on.
+I'm a **Data Professional** living across the entire data lifecycle, from tuning low-level SQL queries in production databases to building scalable cloud pipelines and crafting interactive dashboards that business leaders actually rely on.
 
 At **AWS**, I worked on production database systems as a Cloud Support Associate, diagnosing performance bottlenecks across **150+ production database support cases** while achieving **~30% query performance improvements** through SQL tuning and intelligent indexing strategies. Before that, I automated audit workflows at **Deloitte**, validating financial datasets scaling past **30 million records** and reducing turnaround times by **20%**.
 
 My interests span **Data Engineering, Cloud Analytics, Business Intelligence, and Modern Data Platforms**, with a focus on designing reliable pipelines, scalable architectures, and meaningful analytics that drive real business value rather than vanity metrics.
 
-**Whether you need:** A Data Engineer, Data Analyst, SQL Developer, or BI/Visualization Specialist — **I bring a hybrid background that bridges technical infrastructure with commercial insights.**
+**Whether you need:** A Data Engineer, Data Analyst, SQL Developer, or BI/Visualization Specialist - **I bring a hybrid background that bridges technical infrastructure with commercial insights.**
 
 ---
 
 ## 🧠 What I Work On
 
-⚡ **Building Scalable Data Engineering Pipelines** — End-to-end ETL/ELT architecture using PySpark, Apache Airflow, Databricks, and modern cloud platforms for reliable, fault-tolerant data flows.
+⚡ **Building Scalable Data Engineering Pipelines** - End-to-end ETL/ELT architecture using PySpark, Apache Airflow, Databricks, and modern cloud platforms for reliable, fault-tolerant data flows.
 
-📊 **Developing Interactive Power BI Dashboards & KPI Reporting** — Transforming raw data into decision-ready visual stories using DAX, Power Query, and dimensional modeling that executives trust.
+📊 **Developing Interactive Power BI Dashboards & KPI Reporting** - Transforming raw data into decision-ready visual stories using DAX, Power Query, and dimensional modeling that executives trust.
 
-☁️ **Designing Cloud-Native Analytics Solutions on AWS, Azure & GCP** — Architecting cost-effective, scalable data platforms leveraging managed services like Glue, Athena, BigQuery, and Databricks.
+☁️ **Designing Cloud-Native Analytics Solutions on AWS, Azure & GCP** - Architecting cost-effective, scalable data platforms leveraging managed services like Glue, Athena, BigQuery, and Databricks.
 
-🏗️ **Data Modeling, Warehousing & ETL/ELT Architecture** — Designing star schemas, dimensional models, and lakehouse patterns that enable consistent analytics and reliable downstream consumption.
+🏗️ **Data Modeling, Warehousing & ETL/ELT Architecture** - Designing star schemas, dimensional models, and lakehouse patterns that enable consistent analytics and reliable downstream consumption.
 
-🚀 **Optimizing SQL Queries & Database Performance** — Deep-diving into execution plans, indexing strategies, and workload optimization to extract performance and cost efficiency.
+🚀 **Optimizing SQL Queries & Database Performance** - Deep-diving into execution plans, indexing strategies, and workload optimization to extract performance and cost efficiency.
 
-🔍 **Exploratory Data Analysis, BI & Data-Driven Solutions** — Statistical analysis, pattern discovery, and predictive modeling to uncover business insights and support strategic decisions.
+🔍 **Exploratory Data Analysis, BI & Data-Driven Solutions** - Statistical analysis, pattern discovery, and predictive modeling to uncover business insights and support strategic decisions.
 
 ---
 
@@ -336,6 +336,7 @@ Power BI dashboard designed to **monitor, visualize, and analyze global keyword 
 <td align="center" width="33%">
 
 <img src="https://imgs.search.brave.com/qTZF8NFEy8bsoziE4VTe7w1RZDZ3BETFqWHQn97hpOM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3JlZGx5LmNv/bS9pbWFnZXMvMGUy/ODRjM2YtNTE2NC00/YjIxLTg2NjAtMGQ4/NDczNzk0MWJjL2lt/YWdlLnBuZw" width="75" height="75" alt="AWS Solutions Architect - Associate"/>
+
 #### AWS Solutions Architect - Associate
 
 **Issuer:** Amazon Web Services
@@ -348,6 +349,7 @@ Cloud infrastructure design, scalable architectures, and AWS services expertise.
 <td align="center" width="33%">
 
 <img src="https://imgs.search.brave.com/foeenpRw1LeDpc5S7SY2KzJy4FzN85mU8BEDEXH54RU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3JlZGx5LmNv/bS9pbWFnZXMvMWE2/MzRiNGUtM2Q2Yi00/YTc0LWIxMTgtYzBk/Y2I0MjllOGQyL2lt/YWdlLnBuZw" width="75" height="75" alt="AWS Certified Machine Learning Engineer – Associate"/>
+
 #### AWS ML Engineer - Associate
 
 **Issuer:** Amazon Web Services
@@ -359,7 +361,8 @@ ML pipelines, model training, deployment, and AWS ML services proficiency.
 </td>
 <td align="center" width="33%">
 
-<img src="<img src="https://imgs.search.brave.com/qTZF8NFEy8bsoziE4VTe7w1RZDZ3BETFqWHQn97hpOM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3JlZGx5LmNv/bS9pbWFnZXMvMGUy/ODRjM2YtNTE2NC00/YjIxLTg2NjAtMGQ4/NDczNzk0MWJjL2lt/YWdlLnBuZw" width="75" height="75" alt="AWS Solutions Architect - Associate"/>" width="75" height="75" alt="AWS AI Practitioner"/>
+"<img src="https://imgs.search.brave.com/qTZF8NFEy8bsoziE4VTe7w1RZDZ3BETFqWHQn97hpOM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3JlZGx5LmNv/bS9pbWFnZXMvMGUy/ODRjM2YtNTE2NC00/YjIxLTg2NjAtMGQ4/NDczNzk0MWJjL2lt/YWdlLnBuZw" width="75" height="75" alt="AWS Certified AI Practitioner"/>
+
 #### AWS Certified AI Practitioner
 
 **Issuer:** Amazon Web Services
@@ -376,7 +379,8 @@ AI/ML fundamentals, generative AI, and responsible AI practices.
 <tr>
 <td align="center" width="33%">
 
-<img src="<img src="https://imgs.search.brave.com/qTZF8NFEy8bsoziE4VTe7w1RZDZ3BETFqWHQn97hpOM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3JlZGx5LmNv/bS9pbWFnZXMvMGUy/ODRjM2YtNTE2NC00/YjIxLTg2NjAtMGQ4/NDczNzk0MWJjL2lt/YWdlLnBuZw" width="75" height="75" alt="AWS Solutions Architect - Associate"/>" width="75" height="75" alt="IBM AI Analyst"/>
+<img src="https://imgs.search.brave.com/qTZF8NFEy8bsoziE4VTe7w1RZDZ3BETFqWHQn97hpOM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3JlZGx5LmNv/bS9pbWFnZXMvMGUy/ODRjM2YtNTE2NC00/YjIxLTg2NjAtMGQ4/NDczNzk0MWJjL2lt/YWdlLnBuZw" width="75" height="75" alt="IBM AI Analyst"/>
+
 #### Artificial Intelligence Analyst
 
 **Issuer:** IBM Developer Skills Network
