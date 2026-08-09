@@ -141,8 +141,6 @@ My interests span **Data Engineering, Cloud Analytics, Business Intelligence, an
 
 ## 📌 Featured Projects
 
-# 📌 Featured Projects
-
 <p align="center">
   <i>Real-world data engineering, cloud analytics, and business intelligence projects.</i>
 </p>
@@ -155,7 +153,7 @@ My interests span **Data Engineering, Cloud Analytics, Business Intelligence, an
 ### 🏏 IPL 2026 Live Dashboard
 
 <p align="center">
-  <img src="[PROJECT_IMAGE_URL]" width="100%" alt="IPL 2026 Live Dashboard" />
+  <img src="https://github.com/AduetDabral1/PowerBI/blob/main/IPL%202026%20Dashboard/images/captains1cap.webp?raw=true" width="100%" alt="IPL 2026 Live Dashboard" />
 </p>
 
 <p>
@@ -168,9 +166,9 @@ Real-time Power BI analytics solution for the **Indian Premier League (IPL) 2026
 **Tech:** Power BI · DAX · Power Query · RapidAPI · Excel
 
 <p>
-  <a href="[GITHUB_URL]">→ View on GitHub</a>
+  <a href="https://github.com/AduetDabral1/PowerBI/tree/main/IPL%202026%20Dashboard">→ View on GitHub</a>
   &nbsp;&nbsp;
-  <a href="[DEMO_URL]">→ Live Demo</a>
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiNDM3ZDk1NDMtOWY2OS00ZDExLTgxOWYtZTY3ZjI2MjQ3ZTA0IiwidCI6ImE2ZGJkZGRlLTU3OTgtNGViYS1hNWE4LTc4ODA3ZTgyZDllYiJ9&embedImagePlaceholder=true&pageName=37c85bd29990ae491913">→ Live Demo</a>
 </p>
 
 </td>
@@ -180,7 +178,7 @@ Real-time Power BI analytics solution for the **Indian Premier League (IPL) 2026
 ### 🏥 Azure Healthcare Revenue Cycle Platform
 
 <p align="center">
-  <img src="[PROJECT_IMAGE_URL]" width="100%" alt="Azure Healthcare Revenue Cycle Platform" />
+  <img src="https://private-user-images.githubusercontent.com/98040707/617664783-bb78cf1d-b740-4854-8d67-15a888a8fa33.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODYyNTM0NzgsIm5iZiI6MTc4NjI1MzE3OCwicGF0aCI6Ii85ODA0MDcwNy82MTc2NjQ3ODMtYmI3OGNmMWQtYjc0MC00ODU0LThkNjctMTVhODg4YThmYTMzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA5VDA1MjYxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE1NjUzNjJhMGE4YjgxMDE4ZGZmNjg1OWFhNTg0MmQyZWU0ZGYwMWQ5ZWZmMDYwZDBjZDlkMzM1ZTA3NjAxMmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.tiHtLkyOI2pOhnjlPK_13XPfltmOxrwiPWWIQRTQFqI" width="100%" alt="Azure Healthcare Revenue Cycle Platform" />
 </p>
 
 <p>
@@ -195,7 +193,6 @@ Production-inspired Azure Data Engineering platform that ingests healthcare oper
 <p>
   <a href="https://github.com/AduetDabral1/End-to-End-Data-Pipelines/tree/main/Healthcare_Revenue_Cycle_Management_Azure">→ View on GitHub</a>
   &nbsp;&nbsp;
-  <a href="[DEMO_URL]">→ Live Demo</a>
 </p>
 
 </td>
@@ -209,7 +206,7 @@ Production-inspired Azure Data Engineering platform that ingests healthcare oper
 ### ▶️ YouTube Data Lake & Analytics Pipeline
 
 <p align="center">
-  <img src="[PROJECT_IMAGE_URL]" width="100%" alt="YouTube Data Lake & Analytics Pipeline" />
+  <img src="https://private-user-images.githubusercontent.com/98040707/589964574-f5e5bba4-eed4-43a7-a2c6-d1d36705900f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODYyNTM1MTgsIm5iZiI6MTc4NjI1MzIxOCwicGF0aCI6Ii85ODA0MDcwNy81ODk5NjQ1NzQtZjVlNWJiYTQtZWVkNC00M2E3LWEyYzYtZDFkMzY3MDU5MDBmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA5VDA1MjY1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk4MzFhMTU2MmFiMjY5YjE0ZjQzMzcxNjMwZDI4NDVkNWYwOGFhNTdmOWQzODExYzBmNjFmMzZiODE5ZmFmOTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.tgIRf6tiqWhI3-SY3KyZ6_59BqMratGULwsiWeRy9ko" width="100%" alt="YouTube Data Lake & Analytics Pipeline" />
 </p>
 
 <p>
@@ -222,9 +219,8 @@ Serverless AWS data lake for processing and analyzing **40K+ daily YouTube Trend
 **Tech:** AWS S3 · Lambda · Glue · Athena · PySpark · SQL · Medallion Architecture
 
 <p>
-  <a href="[GITHUB_URL]">→ View on GitHub</a>
+  <a href="https://github.com/AduetDabral1/End-to-End-Data-Pipelines/tree/main/Youtube_DE_Project">→ View on GitHub</a>
   &nbsp;&nbsp;
-  <a href="[DEMO_URL]">→ Live Demo</a>
 </p>
 
 </td>
@@ -234,7 +230,7 @@ Serverless AWS data lake for processing and analyzing **40K+ daily YouTube Trend
 ### 🚕 Uber Modern ETL & Analytics Pipeline
 
 <p align="center">
-  <img src="[PROJECT_IMAGE_URL]" width="100%" alt="Uber Modern ETL & Analytics Pipeline" />
+  <img src="https://github.com/AduetDabral1/End-to-End-Data-Pipelines/blob/main/Uber_ETL_Data_Pipeline/architecture.jpg?raw=true" width="100%" alt="Uber Modern ETL & Analytics Pipeline" />
 </p>
 
 <p>
@@ -247,9 +243,9 @@ End-to-end modern data pipeline transforming **NYC taxi trip data** into analyti
 **Tech:** Google Cloud · Mage AI · Python · BigQuery · Google Data Studio
 
 <p>
-  <a href="[GITHUB_URL]">→ View on GitHub</a>
+  <a href="https://github.com/AduetDabral1/End-to-End-Data-Pipelines/tree/main/Uber_ETL_Data_Pipeline">→ View on GitHub</a>
   &nbsp;&nbsp;
-  <a href="[DEMO_URL]">→ Live Demo</a>
+  <a href="https://github.com/AduetDabral1/End-to-End-Data-Pipelines/blob/main/Uber_ETL_Data_Pipeline/Uber_Dashboard.pdf">→ Live Demo</a>
 </p>
 
 </td>
@@ -263,7 +259,7 @@ End-to-end modern data pipeline transforming **NYC taxi trip data** into analyti
 ### 📦 Supply Chain Analytics Dashboard
 
 <p align="center">
-  <img src="[PROJECT_IMAGE_URL]" width="100%" alt="Supply Chain Analytics Dashboard" />
+  <img src="https://github.com/user-attachments/assets/01bbded9-4433-4684-9266-6cf7844ca1b8" width="100%" alt="Supply Chain Analytics Dashboard" />
 </p>
 
 <p>
@@ -276,9 +272,9 @@ Interactive Power BI dashboard providing end-to-end visibility across **procurem
 **Tech:** Power BI · Power Query · DAX · Data Modeling · Python · SQL
 
 <p>
-  <a href="[GITHUB_URL]">→ View on GitHub</a>
+  <a href="https://github.com/AduetDabral1/PowerBI/tree/main/Supply%20Chain%20Dashboard">→ View on GitHub</a>
   &nbsp;&nbsp;
-  <a href="[DEMO_URL]">→ Live Demo</a>
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiNzY5ZDZhYTEtZWQ3NC00ZGE3LTg2NTQtODVkN2IwMTk1MGUzIiwidCI6ImE2ZGJkZGRlLTU3OTgtNGViYS1hNWE4LTc4ODA3ZTgyZDllYiJ9&embedImagePlaceholder=true">→ Live Demo</a>
 </p>
 
 </td>
@@ -288,7 +284,7 @@ Interactive Power BI dashboard providing end-to-end visibility across **procurem
 ### 🔎 Google Trends Dashboard
 
 <p align="center">
-  <img src="[PROJECT_IMAGE_URL]" width="100%" alt="Google Trends Dashboard" />
+  <img src="https://private-user-images.githubusercontent.com/98040707/587480463-175c42ff-f60d-4a4e-a350-eae064c434ba.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODYyNTM3MzAsIm5iZiI6MTc4NjI1MzQzMCwicGF0aCI6Ii85ODA0MDcwNy81ODc0ODA0NjMtMTc1YzQyZmYtZjYwZC00YTRlLWEzNTAtZWFlMDY0YzQzNGJhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA5VDA1MzAzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJmZjRlZmI2OWMxZWU5Y2I4NzE4ODg5YTY5OGVkNTI1ZDZkMzBhYjY1NGIzNzczZjFiYmEwZmJmODZjMTY1NzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.IuVevJ62HBghpMSeSjEHjoTjT7MfC8qkZ698i2AjWgs" width="100%" alt="Google Trends Dashboard" />
 </p>
 
 <p>
@@ -301,9 +297,9 @@ Power BI dashboard designed to **monitor, visualize, and analyze global keyword 
 **Tech:** Power BI · Power Query · Excel
 
 <p>
-  <a href="[GITHUB_URL]">→ View on GitHub</a>
+  <a href="https://github.com/AduetDabral1/PowerBI/tree/main/Google%20Trends%20Dashboard">→ View on GitHub</a>
   &nbsp;&nbsp;
-  <a href="[DEMO_URL]">→ Live Demo</a>
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiNDcwNjdjYWYtNzQ3Zi00NGNhLWEwMDQtYWNjMDM2NTVjOGEzIiwidCI6ImE2ZGJkZGRlLTU3OTgtNGViYS1hNWE4LTc4ODA3ZTgyZDllYiJ9&embedImagePlaceholder=true">→ Live Demo</a>
 </p>
 
 </td>
