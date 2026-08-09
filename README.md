@@ -141,35 +141,175 @@ My interests span **Data Engineering, Cloud Analytics, Business Intelligence, an
 
 ## 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/AduetDabral1">
-    <img src="./assets/projects/ipl-2026.svg" width="48%" alt="IPL 2026 Live Dashboard">
-  </a>
-  &nbsp;
-  <a href="https://github.com/AduetDabral1/End-to-End-Data-Pipelines/tree/main/Healthcare_Revenue_Cycle_Management_Azure">
-    <img src="./assets/projects/healthcare-revenue-cycle.svg" width="48%" alt="Healthcare Revenue Cycle Platform">
-  </a>
-</p>
+# 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/AduetDabral1">
-    <img src="./assets/projects/youtube-data-lake.svg" width="48%" alt="YouTube Data Lake & Analytics Pipeline">
-  </a>
-  &nbsp;
-  <a href="https://github.com/AduetDabral1">
-    <img src="./assets/projects/real-time-stock-market.svg" width="48%" alt="Real-Time Stock Market Pipeline">
-  </a>
+  <i>Real-world data engineering, cloud analytics, and business intelligence projects.</i>
 </p>
 
+<table>
+<tr>
+
+<td width="50%" valign="top" bgcolor="#EAF6FF">
+
+### 🏏 IPL 2026 Live Dashboard
+
 <p align="center">
-  <a href="https://github.com/AduetDabral1">
-    <img src="./assets/projects/supply-chain.svg" width="48%" alt="Supply Chain Analytics Dashboard">
-  </a>
-  &nbsp;
-  <a href="https://github.com/AduetDabral1">
-    <img src="./assets/projects/google-trends.svg" width="48%" alt="Google Trends Dashboard">
-  </a>
+  <img src="[PROJECT_IMAGE_URL]" width="100%" alt="IPL 2026 Live Dashboard" />
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Real--Time%20Analytics-2563EB?style=flat-square" />
+</p>
+
+Real-time Power BI analytics solution for the **Indian Premier League (IPL) 2026**, integrating live API feeds with historical datasets to deliver comprehensive tournament insights.
+
+**Tech:** Power BI · DAX · Power Query · RapidAPI · Excel
+
+<p>
+  <a href="[GITHUB_URL]">→ View on GitHub</a>
+  &nbsp;&nbsp;
+  <a href="[DEMO_URL]">→ Live Demo</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top" bgcolor="#EAF6FF">
+
+### 🏥 Azure Healthcare Revenue Cycle Platform
+
+<p align="center">
+  <img src="[PROJECT_IMAGE_URL]" width="100%" alt="Azure Healthcare Revenue Cycle Platform" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Engineering-2563EB?style=flat-square" />
+</p>
+
+Production-inspired Azure Data Engineering platform that ingests healthcare operational data into a Delta Lakehouse using metadata-driven pipelines, Medallion Architecture, and Slowly Changing Dimensions (SCD Type 2).
+
+**Tech:** Azure · Azure Data Factory · Databricks · PySpark · Delta Lake · SQL
+
+<p>
+  <a href="https://github.com/AduetDabral1/End-to-End-Data-Pipelines/tree/main/Healthcare_Revenue_Cycle_Management_Azure">→ View on GitHub</a>
+  &nbsp;&nbsp;
+  <a href="[DEMO_URL]">→ Live Demo</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top" bgcolor="#EAF6FF">
+
+### ▶️ YouTube Data Lake & Analytics Pipeline
+
+<p align="center">
+  <img src="[PROJECT_IMAGE_URL]" width="100%" alt="YouTube Data Lake & Analytics Pipeline" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Serverless-2563EB?style=flat-square" />
+</p>
+
+Serverless AWS data lake for processing and analyzing **40K+ daily YouTube Trending records**, with automated ingestion, transformation, partitioning, and analytical querying.
+
+**Tech:** AWS S3 · Lambda · Glue · Athena · PySpark · SQL · Medallion Architecture
+
+<p>
+  <a href="[GITHUB_URL]">→ View on GitHub</a>
+  &nbsp;&nbsp;
+  <a href="[DEMO_URL]">→ Live Demo</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top" bgcolor="#EAF6FF">
+
+### 🚕 Uber Modern ETL & Analytics Pipeline
+
+<p align="center">
+  <img src="[PROJECT_IMAGE_URL]" width="100%" alt="Uber Modern ETL & Analytics Pipeline" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL%2FAnalytics-2563EB?style=flat-square" />
+</p>
+
+End-to-end modern data pipeline transforming **NYC taxi trip data** into analytics-ready datasets using cloud ingestion, transformation, warehousing, and visualization.
+
+**Tech:** Google Cloud · Mage AI · Python · BigQuery · Google Data Studio
+
+<p>
+  <a href="[GITHUB_URL]">→ View on GitHub</a>
+  &nbsp;&nbsp;
+  <a href="[DEMO_URL]">→ Live Demo</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top" bgcolor="#EAF6FF">
+
+### 📦 Supply Chain Analytics Dashboard
+
+<p align="center">
+  <img src="[PROJECT_IMAGE_URL]" width="100%" alt="Supply Chain Analytics Dashboard" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/BI%20Solution-2563EB?style=flat-square" />
+</p>
+
+Interactive Power BI dashboard providing end-to-end visibility across **procurement, inventory, logistics, and customer fulfillment**, supported by dimensional data modeling.
+
+**Tech:** Power BI · Power Query · DAX · Data Modeling · Python · SQL
+
+<p>
+  <a href="[GITHUB_URL]">→ View on GitHub</a>
+  &nbsp;&nbsp;
+  <a href="[DEMO_URL]">→ Live Demo</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top" bgcolor="#EAF6FF">
+
+### 🔎 Google Trends Dashboard
+
+<p align="center">
+  <img src="[PROJECT_IMAGE_URL]" width="100%" alt="Google Trends Dashboard" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Analytics-2563EB?style=flat-square" />
+</p>
+
+Power BI dashboard designed to **monitor, visualize, and analyze global keyword search trends**, transforming search-interest data into an interactive analytics experience.
+
+**Tech:** Power BI · Power Query · Excel
+
+<p>
+  <a href="[GITHUB_URL]">→ View on GitHub</a>
+  &nbsp;&nbsp;
+  <a href="[DEMO_URL]">→ Live Demo</a>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 
 ---
