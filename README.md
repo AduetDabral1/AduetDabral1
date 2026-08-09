@@ -74,7 +74,9 @@ My interests span **Data Engineering, Cloud Analytics, Business Intelligence, an
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/><br><sub><b>PostgreSQL</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/><br><sub><b>MySQL</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="SQL Server"/><br><sub><b>SQL Server</b></sub></td>
-<td align="center" width="100">🏛️<br><sub><b>Data Warehouse</b></sub></td>
+<td align="center" width="100">
+ <img src="https://imgs.search.brave.com/9bHFs6eqmZAAFSp3dRtYxK4zp_61VUFkgnlP-iR8OCA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL3ByZW1p/dW0vcG5nLTI1Ni10/aHVtYi9kYXRhLXdh/cmVob3VzZS1pY29u/LXN2Zy1kb3dubG9h/ZC1wbmctNTIzMDA2/My5wbmc_Zj13ZWJw/Jnc9MTI4" width="45" height="45" alt="Data Warehouse"/>
+ <br><sub><b>Data Warehouse</b></sub></td>
 </tr>
 </table>
 
@@ -92,7 +94,7 @@ My interests span **Data Engineering, Cloud Analytics, Business Intelligence, an
  <br><sub><b>ETL/ELT</b></sub></td>
  
 <td align="center" width="100">
- <img src="https://imgs.search.brave.com/NYQqAE0fIjshU57mbOMweVKV50xQWC28vh1h1zwO0zE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/bWFnbmlmaWMuY29t/L2ZyZWUtdmVjdG9y/L2lsbHVzdHJhdGlv/bi1zb2NpYWwtbWVk/aWEtY29uY2VwdF81/Mzg3Ni0xODE0MC5q/cGc_c2VtdD1haXNf/aHlicmlkJnc9NzQw/JnE9ODA" width="45" height="45" alt="Data Wrangling"/>
+ <img src="https://imgs.search.brave.com/NYQqAE0fIjshU57mbOMweVKV50xQWC28vh1h1zwO0zE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/bWFnbmlmaWMuY29t/L2ZyZWUtdmVjdG9y/L2lsbHVzdHJhdGlv/bi1zb2NpYWwtbWVk/aWEtY29uY2VwdF81/Mzg3Ni0xODE0MC5q/cGc_c2VtdD1haXNf/aHlicmlkJnc9NzQw/JnE9ODA" width="60" height="45" alt="Data Wrangling"/>
  <br><sub><b>Data Wrangling</b></sub></td>
 </tr>
 </table>
@@ -114,8 +116,13 @@ My interests span **Data Engineering, Cloud Analytics, Business Intelligence, an
 <td align="center" width="100"><img src="https://imgs.search.brave.com/s2OUPU3QBLJGgmsHyHHGyN6iR_tiRui9Pp7PiWb8zXM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9vbGFz/LmllL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIyLzEwL1Bvd2Vy/UXVlcnktTG9nby5w/bmc" width="45" height="45" alt="Power Query"/><br><sub><b>Power Query</b></sub></td>
 <td align="center" width="100"><img src="https://imgs.search.brave.com/NyK3GyiwYLl6970jdh_asM1A4H6xC3c7P50osYAdzG8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly8xMDAw/bG9nb3MubmV0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI0LzEw/L0JpZ1F1ZXJ5LUxv/Z28tNTAweDI4MS5q/cGc" width="70" height="45" alt="BigQuery"/><br><sub><b>BigQuery</b></sub></td>
 <td align="center" width="100"><img src="https://imgs.search.brave.com/M1_OvZqMPJaBRsU_FwCqSBUOBUuW1ncFF9Q8TXI9hUE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzMwLzIvbWljcm9z/b2Z0LWV4Y2VsLWxv/Z28tcG5nX3NlZWts/b2dvLTMwMDExMC5w/bmc" width="45" height="45" alt="MS Excel"/><br><sub><b>MS Excel</b></sub></td>
-<td align="center" width="100">📊<br><sub><b>Google Data Studio</b></sub></td>
-<td align="center" width="100">🔍<br><sub><b>EDA</b></sub></td>
+<td align="center" width="100">
+ <img src="https://imgs.search.brave.com/WWeMDQtbwlJUHj7ORnaURZge3njYJWPyRdsvSOsDYmU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9meGN1/aXNzb3QuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE3LzA0/L2dvb2dsZS1kYXRh/LXN0dWRpby1sb2dv/LXBuZy01MTJweC5w/bmc" width="60" height="45" alt="Google Data Studio"/>
+ <br><sub><b>Google Data Studio</b></sub></td>
+ 
+<td align="center" width="100">
+ <img src="https://imgs.search.brave.com/YRy4e8VhWrnfA34c306K9kcmWaHyo3wOXHC0s6_gb5E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZWRhLXNvbHV0aW9u/cy5jb20vYXBwL3Vw/bG9hZHMvMjAyMC8w/Ny9pY29uMy5zdmc" width="45" height="45" alt="EDA"/>
+ <br><sub><b>EDA</b></sub></td>
 </tr>
 </table>
 
@@ -124,16 +131,28 @@ My interests span **Data Engineering, Cloud Analytics, Business Intelligence, an
 <tr>
 <td align="center" width="100"><img src="https://imgs.search.brave.com/nJeNqYb6hHMeVh_NrWL5ljGVvoW8nlildkx-nJO7N_8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5wbmdhYWEuY29t/LzI5Ni8xOTQ3Mjk2/LW1pZGRsZS5wbmc" width="45" height="45" alt="Pandas"/><br><sub><b>Pandas</b></sub></td>
 <td align="center" width="100"><img src="https://imgs.search.brave.com/6zZLE6ZqLbqKYhdIFtf04Fn61rdnd1qCfiUCxJCVn4I/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9udW1w/eS5vcmcvaW1hZ2Vz/L2xvZ28uc3Zn" width="45" height="45" alt="NumPy"/><br><sub><b>NumPy</b></sub></td>
-<td align="center" width="100">📈<br><sub><b>Matplotlib</b></sub></td>
-<td align="center" width="100">🎨<br><sub><b>Seaborn</b></sub></td>
+<td align="center" width="100">
+ <img src="https://imgs.search.brave.com/ERfVFM6pZORxfXrEeqIREjShP5w2HMi7uNCMY0wh4ho/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pY29u/bG9nb3ZlY3Rvci5j/b20vdXBsb2Fkcy9p/bWFnZXMvMjAyNC8x/Mi9zbS02NzcxMmFk/ZDk0M2RhLU1hdHBs/b3RsaWIud2VicA" width="60" height="45" alt="Matplotlib"/>
+ <br><sub><b>Matplotlib</b></sub></td>
+ 
+<td align="center" width="100">
+ <img src="https://imgs.search.brave.com/V1_8_rsEL6Z3e7unMCZMgt8Kxqpld-KmCcbMqIjqy0A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzQ0LzIvc2VhYm9y/bi1sb2dvLXBuZ19z/ZWVrbG9nby00NDE4/NDYucG5n" width="60" height="45" alt="Seaborn"/>
+ <br><sub><b>Seaborn</b></sub></td>
 </tr>
 </table>
 
 ### 📐 Data Science & Modeling Fundamentals
 <table>
 <tr>
-<td align="center" width="100">🏗️<br><sub><b>Data Modeling</b></sub></td>
-<td align="center" width="100">📊<br><sub><b>Statistics</b></sub></td>
+<td align="center" width="100">
+ <img src="https://imgs.search.brave.com/T39RXFCUThVtiHXbDfQAMbK_vEkDUzHTBpl7A0RCh6o/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wMTYv/NTI4LzM5Ni9zbWFs/bC9kYXRhLW1vZGVs/bGluZy1pY29uLWZy/ZWUtdmVjdG9yLmpw/Zw" width="45" height="45" alt="Data Modeling"/>
+ <br><sub><b>Data Modeling</b></sub></td>
+<td align="center" width="100">
+ <img src="https://imgs.search.brave.com/tljZGvW0fRKNNE7DeAFz6fcR_3pA9aEbH39111LP0t4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/Y29ycG9yYXRlZmlu/YW5jZWluc3RpdHV0/ZS5jb20vYXNzZXRz/L1N0YXRpc3RpY3Mt/MS0xMDI0eDcxMS5q/cGVn" width="45" height="45" alt="Statistics"/>
+ <br><sub><b>Statistics</b></sub></td>
+ <td align="center" width="100">
+ <img src="https://imgs.search.brave.com/mnkJGcvN9uwGPRh0PzvkqIcLSqrFf3ggEk-nWpSgdBM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/bWFnbmlmaWMuY29t/L3ByZW1pdW0tdmVj/dG9yL21hY2hpbmUt/bGVhcm5pbmctbG9n/b181NzU3NjktMTAw/OC5qcGc_c2VtdD1h/aXNfaHlicmlkJnc9/NzQwJnE9ODA" width="45" height="45" alt="Machine Learning"/>
+ <br><sub><b>Machine Learning</b></sub></td>
 </tr>
 </table>
 
@@ -316,36 +335,36 @@ Power BI dashboard designed to **monitor, visualize, and analyze global keyword 
 <tr>
 <td align="center" width="33%">
 
-### 🏆
+<img src="https://imgs.search.brave.com/qTZF8NFEy8bsoziE4VTe7w1RZDZ3BETFqWHQn97hpOM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3JlZGx5LmNv/bS9pbWFnZXMvMGUy/ODRjM2YtNTE2NC00/YjIxLTg2NjAtMGQ4/NDczNzk0MWJjL2lt/YWdlLnBuZw" width="75" height="75" alt="AWS Solutions Architect - Associate"/>
 #### AWS Solutions Architect - Associate
 
 **Issuer:** Amazon Web Services
 
-**Issued:** [Issued Date]
+**Issued:** November, 2024
 
 Cloud infrastructure design, scalable architectures, and AWS services expertise.
 
 </td>
 <td align="center" width="33%">
 
-### 🤖
+<img src="https://imgs.search.brave.com/foeenpRw1LeDpc5S7SY2KzJy4FzN85mU8BEDEXH54RU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3JlZGx5LmNv/bS9pbWFnZXMvMWE2/MzRiNGUtM2Q2Yi00/YTc0LWIxMTgtYzBk/Y2I0MjllOGQyL2lt/YWdlLnBuZw" width="75" height="75" alt="AWS Certified Machine Learning Engineer – Associate"/>
 #### AWS ML Engineer - Associate
 
 **Issuer:** Amazon Web Services
 
-**Issued:** [Issued Date]
+**Issued:** August, 2025
 
 ML pipelines, model training, deployment, and AWS ML services proficiency.
 
 </td>
 <td align="center" width="33%">
 
-### ⚡
-#### AWS AI Practitioner
+<img src="<img src="https://imgs.search.brave.com/qTZF8NFEy8bsoziE4VTe7w1RZDZ3BETFqWHQn97hpOM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3JlZGx5LmNv/bS9pbWFnZXMvMGUy/ODRjM2YtNTE2NC00/YjIxLTg2NjAtMGQ4/NDczNzk0MWJjL2lt/YWdlLnBuZw" width="75" height="75" alt="AWS Solutions Architect - Associate"/>" width="75" height="75" alt="AWS AI Practitioner"/>
+#### AWS Certified AI Practitioner
 
 **Issuer:** Amazon Web Services
 
-**Issued:** [Issued Date]
+**Issued:** February, 2025
 
 AI/ML fundamentals, generative AI, and responsible AI practices.
 
@@ -357,12 +376,12 @@ AI/ML fundamentals, generative AI, and responsible AI practices.
 <tr>
 <td align="center" width="33%">
 
-### 📊
-#### Data Science & AI Analyst
+<img src="<img src="https://imgs.search.brave.com/qTZF8NFEy8bsoziE4VTe7w1RZDZ3BETFqWHQn97hpOM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3JlZGx5LmNv/bS9pbWFnZXMvMGUy/ODRjM2YtNTE2NC00/YjIxLTg2NjAtMGQ4/NDczNzk0MWJjL2lt/YWdlLnBuZw" width="75" height="75" alt="AWS Solutions Architect - Associate"/>" width="75" height="75" alt="IBM AI Analyst"/>
+#### Artificial Intelligence Analyst
 
-**Issuer:** IBM
+**Issuer:** IBM Developer Skills Network
 
-**Issued:** [Issued Date]
+**Issued:** November, 2022
 
 Data science methodology, analysis, and AI application expertise.
 
@@ -403,7 +422,5 @@ If you're building a team or looking for someone who can hit the ground running 
 <div align="center">
   
   ⭐ If you found value here, consider giving this repo a star!
-  
-  **Made with ❤️ by Aduet Dabral**
   
 </div>
